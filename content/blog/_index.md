@@ -1,8 +1,8 @@
 ---
-title: Musings
-description: An assorted collection of thoughts on business, finance, and life.
+title: Blogs
+description: My thoughts on tech & life.
 date: 2020-06-26
-author: nithin
+author: Sanyam Aggarwal
 ---
 
-An assorted collection of thoughts on business, finance, and life. Browse by [tags](/tags).
+Sharing some of my experiences with tech and life. Browse by [tags](/tags).

@@ -1,9 +1,9 @@
 ---
-date: '2022-08-16'
-title: 12 years of Zerodha
-tags: [zerodha]
-author: nithin
-link: https://twitter.com/Nithin0dha/status/1559565940462948352
+date: '2021-12-07'
+title: How to automatically maintain a MySQL Table’s Partitions?
+tags: [mysql, partition, nodejs, time series data]
+author: Sanyam Aggarwal
+link: https://sanyamaggarwal.medium.com/how-to-automatically-maintain-a-mysql-tables-partitions-with-mysqlpartitionkeeper-f9923f973135
 post_type: tweet
 description: A few thoughts on the Indian broking industry and updates about Zerodha as we turn 12 years old...
 
