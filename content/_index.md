@@ -14,13 +14,13 @@ I like to hobby code at weekends, work out, swim, travel to new places and spend
 
 ![](static/images/shipping.jpeg "Shipping !")
 
-In school, I was a below average student academically. I discovered trading and the markets by accident at the age of 17. I've been through the boom and bust journey every good trader experiences. In the early 2000s, I borrowed money and blew up my trading account and then worked in a call center for 4 years trying to make up for the debt, while also trading on the side. I met Seema while working there. I quit my job when I met the first person who asked me to manage their portfolio.
+In school, I was an average student academically. I discovered computers at my Uncle's office when I was 6, and had access to a computer since then. I became your go to guy for PC, Phone recommendations and joined [NIT Jalandhar](https://www.nitj.ac.in/) in 2016 to learn more about what goes behind the tech.
 
-![](static/images/2009.jpg "Me, Nik, Venu, and Hanan in 2009")
+![](static/images/2009.jpg "An old college memory")
 
-I became a franchisee of Reliance Money (brokerage firm) to start a formal advisory business. Around this time, Nik, who is a much better trader than I am, joined me. With him trading, we figured I could set aside some time building a brokerage firm that we felt we needed as traders. As we were figuring this out, we came across NOW, a free trading platform that NSE was offering to brokers. Finally, in 2010, we hustled and pulled together just enough money to start Zerodha. Venu, who had been our friend for a long time, and was working with us since our Reliance Money times, handled operations. Hanan, who had been trading with us, started taking care of support. We started out as a small team, had no pedigree education, no background in tech, no experience, but had a passion for capital markets and the intent to help other traders like us.
+I found the course work realy boring and fell out of the love for Tech. I fancied becoming an honest people serving Government Official earlier also, but took the free time to prepare for UPSC instead of killing it.
 
-![2009](static/images/reliance-money.jpg "As a Reliance Money franchisee")
+![2009](static/images/reliance-money.jpg "IAS prep")
 
 With Zerodha, we were the first to introduce a flat fee model (a maximum of ₹20 per trade), helping traders save upto ~90% of brokerage charges compared to the exorbitant percentage fees which was common at the time. In addition, we offered this single pricing plan to all our clients unlike the then incumbent players who had opaque offerings for different groups of clients. While we started from zero, this transparency slowly got us attention on online communities and via word of mouth.
 
