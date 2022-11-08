@@ -1,7 +1,7 @@
 ---
 date: '2021-11-08'
 title: Partitioning — Reduce query time by 2000x in a MySQL table with 500M+ rows
-tags: [mysql, partition, optimisation, time series data,]
+tags: [mysql, partition, optimisation, time series data]
 author: Sanyam Aggarwal
 link: https://sanyamaggarwal.medium.com/partitioning-optimising-query-time-by-2000x-in-a-table-with-500m-rows-80c16100fede
 post_type: medium
