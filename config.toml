@@ -1,10 +1,10 @@
-baseURL = "https://nithinkamath.me"
+baseURL = "https://i-sanyam.github.io"
 languageCode = "en-us"
-title = "Nithin Kamath's personal homepage"
+title = "Sanyam Aggarwal's personal homepage"
 paginate = 20
 
 [params]
-subtitle = "Musings on finance, business, and life"
+subtitle = "Living to Learn | Learning to Live"
 thumbnail = "thumb.jpg"
 
 [taxonomies]
@@ -19,7 +19,7 @@ thumbnail = "thumb.jpg"
       weight = 1
 
    [[menu.header]]
-      identifier = "musings"
-      name = "Musings"
+      identifier = "Blogs"
+      name = "Blogs"
       url = "/blog"
       weight = 2
