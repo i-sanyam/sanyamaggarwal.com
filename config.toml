@@ -5,7 +5,7 @@ paginate = 20
 
 [params]
 subtitle = "Living to Learn | Learning to Live"
-thumbnail = "thumb.jpg"
+thumbnail = "thumb.jpeg"
 
 [taxonomies]
    tag = "tags"

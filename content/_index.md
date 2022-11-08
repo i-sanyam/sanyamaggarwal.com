@@ -5,16 +5,14 @@ type: "page"
 Hey there! Welcome to my personal homepage.
 I am Sanyam, and I love to solve real life problems for mass benefit.
 
-I am a Software Engineer at [Shipsy](https://shipsy.io). At Shipsy, our motto is to be the enabler for logistics for every mode of logistics that exists while being best at it. You can Ship any thing via Shipsy !
+I am a Software Engineer at [Shipsy](https://shipsy.io). At Shipsy, our motto is to be the enabler for every mode of logistics that exists while being best at it. 'Ship' anything via Shipsy
 
-I started my journey in 2020 (yeah COVID-19 period WFH) as a Software Engineering Intern in a On-Demand Logistics Solution Product (fancy name for 30 minute delivery, if you are wondering) and fell in **love** with the problem and the challenges it brings along ever since.
+I started my journey in 2020 (yeah COVID-19, WFH) as a Software Engineering Intern in an On-Demand Logistics Solution Product (fancy name for 30 minute delivery, if you are wondering) and fell in **love** with the problem and the challenges it brings along ever since.
 
 Apart from what I do @ Shipsy, I particularly enjoy watching content about music and cars - drive reviews, repairs, trades, paint jobs, basically everything ! No brownie points for guessing, I fell in love with our family's first car when I was 4.
 I like to hobby code at weekends, work out, swim, travel to new places and spending time with my family.
 
-![](static/images/kiaan.jpg "Jamming with Kiaan")
-
-![](static/images/2021-lucky-ali.jpg "With Kiaan, Seema, and (Lucky Ali!)")
+![](static/images/shipping.jpeg "Shipping !")
 
 In school, I was a below average student academically. I discovered trading and the markets by accident at the age of 17. I've been through the boom and bust journey every good trader experiences. In the early 2000s, I borrowed money and blew up my trading account and then worked in a call center for 4 years trying to make up for the debt, while also trading on the side. I met Seema while working there. I quit my job when I met the first person who asked me to manage their portfolio.
 
