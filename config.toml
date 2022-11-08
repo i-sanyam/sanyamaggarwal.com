@@ -1,6 +1,7 @@
 baseURL = "https://i-sanyam.github.io"
 languageCode = "en-us"
 title = "Sanyam's Homepage"
+subtitle = "Sanyam's Personal Homepage"
 paginate = 20
 
 [params]
