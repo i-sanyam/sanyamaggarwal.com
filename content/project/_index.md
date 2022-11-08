@@ -7,6 +7,6 @@ author: Sanyam Aggarwal
 
 
 ## Personal Projects
-Sharing some of my personal projects.
+Sharing some of my personal projects. Browse by [tags](/tags).
 
 ### My Github: [i-sanyam](https://github.com/i-sanyam)
