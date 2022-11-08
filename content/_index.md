@@ -12,15 +12,15 @@ I started my journey in 2020 (yeah COVID-19, WFH) as a Software Engineering Inte
 Apart from what I do @ Shipsy, I particularly enjoy watching content about music and cars - drive reviews, repairs, trades, paint jobs, basically everything ! No brownie points for guessing, I fell in love with our family's first car when I was 4.
 I like to hobby code at weekends, work out, swim, travel to new places and spending time with my family.
 
-![](static/images/shipping.jpeg "Shipping !")
+![Sanyam Aggarwal on a Boat](static/images/shipping.jpeg "Shipping !")
 
 In school, I was an average student academically. I discovered computers at my Uncle's office when I was 6, and had access to a computer since then. I became your go to guy for PC, Phone recommendations and joined [NIT Jalandhar](https://www.nitj.ac.in/) in 2016 to learn more about what goes behind the tech.
 
-![](static/images/2009.jpg "An old college memory")
+![No title](static/images/2009.jpg "An old college memory")
 
 I found the course work realy boring and fell out of the love for Tech. I fancied becoming an honest people serving Government Official earlier also, but took the free time to prepare for UPSC instead of killing it.
 
-![2009](static/images/reliance-money.jpg "IAS prep")
+![No title](static/images/reliance-money.jpg "IAS prep")
 
 With Zerodha, we were the first to introduce a flat fee model (a maximum of ₹20 per trade), helping traders save upto ~90% of brokerage charges compared to the exorbitant percentage fees which was common at the time. In addition, we offered this single pricing plan to all our clients unlike the then incumbent players who had opaque offerings for different groups of clients. While we started from zero, this transparency slowly got us attention on online communities and via word of mouth.
 
