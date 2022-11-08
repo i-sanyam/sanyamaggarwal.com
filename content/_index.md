@@ -7,10 +7,10 @@ I am Sanyam, and I love to solve real life problems for mass benefit.
 
 I am a Software Engineer at [Shipsy](https://shipsy.io). At Shipsy, our motto is to be the enabler for every mode of logistics that exists while being best at it. 'Ship' anything and everything via 'Shipsy'.
 
-I started my journey in 2020 (yeah COVID-19, WFH) as a Software Engineering Intern in an On-Demand Logistics Solution Product (fancy name for 30 minute delivery, if you are wondering) and fell in **love** with the problem and the challenges it brings along ever since.
+I started my journey in 2020 (yeah COVID-19, WFH) as a Software Engineering Intern in an On-Demand Logistics Solution Product (fancy name for 30 minute delivery, if you are wondering) and fell in love with the problem and the challenges it brings along ever since.
 
 Apart from what I do @ Shipsy, I particularly enjoy watching content about music and cars - drive reviews, repairs, trades, paint jobs, basically everything ! No brownie points for guessing, I fell in love with our family's first car when I was 4.
-I like to hobby code, work out, swim, travel to new places and spending time with my family.
+I like to hobby code, work out, swim, travel to new places and spend time with my family.
 
 ![Sanyam Aggarwal on a Boat](static/images/shipping.jpeg "Shipping !")
 
@@ -31,7 +31,7 @@ Here, you can [watch me](https://youtu.be/UIU3OOz1FAg) conduct a small informati
 
 ##
 
-I studied for UPSC from 2018 - 2020 and keep an eye on what goes around in domestic and international politics and economics, when I can.
+I studied for UPSC from 2018 - 2020. I try to keep an eye on what goes around in domestic and international politics and economics, when I can.
 
 -------
 
