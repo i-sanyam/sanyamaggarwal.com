@@ -50,6 +50,4 @@ Lately, I have been sharing my views through podcasts, social media, and blog po
 
 ------
 
-*Published on 12th Jan 2021.*
-
-Find me on [LinkedIn](https://www.linkedin.com/in/nithin-kamath-81136242) and [Twitter](https://twitter.com/nithin0dha).
+Find me on [LinkedIn](https://www.linkedin.com/in/sanyamaggarwal) and [Medium](https://sanyamaggarwal.medium.com).
