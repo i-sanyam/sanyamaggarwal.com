@@ -5,7 +5,7 @@ type: "page"
 Hey there! Welcome to my personal homepage.
 I am Sanyam, and I love to solve real life problems for mass benefit.
 
-I am a Software Engineer at [Shipsy](https://shipsy.io). At Shipsy, our motto is to be the enabler for every mode of logistics that exists while being best at it. 'Ship' anything via Shipsy
+I am a Software Engineer at [Shipsy](https://shipsy.io). At Shipsy, our motto is to be the enabler for every mode of logistics that exists while being best at it. 'Ship' anything and everything via 'Shipsy'.
 
 I started my journey in 2020 (yeah COVID-19, WFH) as a Software Engineering Intern in an On-Demand Logistics Solution Product (fancy name for 30 minute delivery, if you are wondering) and fell in **love** with the problem and the challenges it brings along ever since.
 
