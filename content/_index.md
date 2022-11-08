@@ -2,17 +2,19 @@
 type: "page"
 ---
 
-I am Nithin, and I founded [Zerodha](https://zerodha.com). This is my personal homepage.
+Hey there! Welcome to my personal homepage.
+I am Sanyam, and I love to solve real life problems for mass benefit.
 
-I **love** trading (although not actively anymore) and capital markets. At Zerodha, we focus on building the best tools and services for traders and investors in India. Alongside Zerodha, I also help startups through our [Rainmatter fintech](https://rainmatter.com) fund and more recently, have setup the [Rainmatter Foundation](https://rainmatter.org) to give back to the society, the success we have had at Zerodha.
+I am a Software Engineer at [Shipsy](https://shipsy.io). At Shipsy, our motto is to be the enabler for logistics for every mode of logistics that exists while being best at it. You can Ship any thing via Shipsy !
 
-Apart from work, I particularly enjoy playing guitar and singing along with my son Kiaan who plays drums, working out with my wife, Seema, spending time with my biological brother Nik (Nikhil) and my brothers-from-other-mothers [K (Kailash)](https://nadh.in), Venu, Karthik, Hanan, and our families. I love running, cycling, and swimming in nature, playing basketball and poker, and enjoy all genres of music.
+I started my journey in 2020 (yeah COVID-19 period WFH) as a Software Engineering Intern in a On-Demand Logistics Solution Product (fancy name for 30 minute delivery, if you are wondering) and fell in **love** with the problem and the challenges it brings along ever since.
+
+Apart from what I do @ Shipsy, I particularly enjoy watching content about music and cars - drive reviews, repairs, trades, paint jobs, basically everything ! No brownie points for guessing, I fell in love with our family's first car when I was 4.
+I like to hobby code at weekends, work out, swim, travel to new places and spending time with my family.
 
 ![](static/images/kiaan.jpg "Jamming with Kiaan")
 
 ![](static/images/2021-lucky-ali.jpg "With Kiaan, Seema, and (Lucky Ali!)")
-
-
 
 In school, I was a below average student academically. I discovered trading and the markets by accident at the age of 17. I've been through the boom and bust journey every good trader experiences. In the early 2000s, I borrowed money and blew up my trading account and then worked in a call center for 4 years trying to make up for the debt, while also trading on the side. I met Seema while working there. I quit my job when I met the first person who asked me to manage their portfolio.
 
