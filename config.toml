@@ -1,6 +1,6 @@
 baseURL = "https://i-sanyam.github.io"
 languageCode = "en-us"
-title = "Sanyam Aggarwal's personal homepage"
+title = "Sanyam's Homepage"
 paginate = 20
 
 [params]
