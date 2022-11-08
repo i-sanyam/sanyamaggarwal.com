@@ -31,7 +31,7 @@ Here, you can [watch me](https://youtu.be/UIU3OOz1FAg) conduct a small informati
 
 ##
 
-I studied for UPSC from 2018 - 2020. I try to keep an eye on what goes around in domestic and international politics and economics, when I can.
+I studied for UPSC between 2018 - 2020. I try to keep an eye on what goes in and around domestic and international politics and economics, when I can.
 
 -------
 
