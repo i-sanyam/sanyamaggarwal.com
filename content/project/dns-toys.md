@@ -1,7 +1,7 @@
 ---
 date: '2022-11-06'
 title: dns.toys
-tags: [golang, dns]
+tags: [go, golang, dns]
 author: Sanyam Aggarwal
 link: https://github.com/i-sanyam/dns.toys
 post_type: github
