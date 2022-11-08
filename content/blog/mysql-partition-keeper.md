@@ -5,10 +5,10 @@ tags: [mysql, partition, nodejs, time series data]
 author: Sanyam Aggarwal
 link: https://sanyamaggarwal.medium.com/how-to-automatically-maintain-a-mysql-tables-partitions-with-mysqlpartitionkeeper-f9923f973135
 post_type: medium
-description: How I automated the manually maintaining MySQL Partitions
+description: There cannot be an infinite number of partitions, so partitioning comes with the overhead of maintenance. Manual Partition Maintenance is prone to ...
 
 ---
 
-A lot of data in applications is time-stamped and is it is sequenced in that manner. Only the data of a defined time range will be really required in the active working of the application and the rest will just be historical data available for downloads, reports etc. A great example of this can be order history of a user. Only the past 1 month order data may be relevant and available for the user to perform some actions.
+We are going to talk here about time series data and Partitions in MySQL. If you are not familiar with these I highly recommend you read [the prevoius blog post](http://localhost:1313/blog/mysql-reduce-query-time-2000x)
 
-Time series data is usually best managed in partitions and since there cannot be a infinite number of partitions, periodic maintenance of partitions - dropping old partitions and creating new ones - is required. Manual maintenance is prone to delays and errors. Read on to know how I created a script for automatic maintenance for partitions. 
+Since there cannot be a infinite number of partitions, periodic maintenance of partitions - dropping old partitions and creating new ones - is required. Manual Partition Maintenance is prone to delays and errors. Read on to know how I created a script for automatic maintenance for partitions. 
