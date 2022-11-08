@@ -14,11 +14,11 @@ I like to hobby code, work out, swim, travel to new places and spend time with m
 
 ![Sanyam Aggarwal on a Boat](static/images/shipping.jpeg "Shipping !")
 
-I discovered computers at my Uncle's office when I was 6, and had access to a computer since then. I became your go to guy for PC, Phone recommendations and joined [NIT Jalandhar](https://www.nitj.ac.in/) in 2016 to learn more about what goes behind the tech.
+I discovered computers at my Uncle's office when I was 6, and had access to a computer since then. I became your go to guy for PC, Phone recommendations. I wanted to be everything,  A Techie, an honest people serving Government Official, Automobile Desinger, and a playback singer. These are some of the professions which I fancied the most amongst many others. Eventually I joined [NIT Jalandhar](https://www.nitj.ac.in/) in 2016 to learn more about what goes behind the tech.
 
 ![Sanyam Aggarwal's selfie in front of NITJ Main Building](static/images/2016.jpeg "2016 Fresher's Party")
 
-One year into the college and I found the course work realy boring and fell out of the love for Tech. I had fancied becoming an honest people serving Government Official earlier in high school and now took the oppurtunity and free time to prepare for UPSC instead of killing it.
+One year into the college and I found the course work realy boring and fell out of the love for Tech. So now I took the oppurtunity and the free time to prepare for UPSC instead of killing it.
 
 ##
 
