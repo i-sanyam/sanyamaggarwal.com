@@ -1,1 +1,1 @@
-Static website + blog.
+My personal homepage.

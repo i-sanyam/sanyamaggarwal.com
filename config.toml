@@ -28,4 +28,4 @@ thumbnail = "thumb.jpeg"
       identifier = "projects"
       name = "Projects"
       url = "/project"
-      weight = 2
+      weight = 3
