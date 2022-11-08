@@ -24,3 +24,8 @@ thumbnail = "thumb.jpeg"
       name = "Blogs"
       url = "/blog"
       weight = 2
+   [[menu.header]]
+      identifier = "projects"
+      name = "Projects"
+      url = "/project"
+      weight = 2

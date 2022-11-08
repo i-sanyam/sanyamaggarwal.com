@@ -1,7 +1,7 @@
 ---
 title: Blogs
 description: My thoughts on tech & life.
-date: 2020-06-26
+date: 2022-10-09
 author: Sanyam Aggarwal
 ---
 

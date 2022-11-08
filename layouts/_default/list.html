@@ -22,7 +22,12 @@
             <span class="year">{{ .Date | dateFormat "Jan 2006" }}</span>
         </div>
         <div class="body">
-            <h4 class="title"><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
+			{{ if .Params.tile }}
+			<h4 class="title"><a href="{{ .Params.link }}" target="_blank">{{ .Title }}</a></h4>
+            {{ else }}
+				<h4 class="title"><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
+			{{ end }}
+
             {{ if .Params.link }}
                 <span class="domain">{{ replace $u.Host "www." "" }}</span>
             {{ end }}
