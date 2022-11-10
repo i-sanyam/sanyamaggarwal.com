@@ -5,7 +5,7 @@ tags: [nodejs, npm, best practices, javascript]
 author: Sanyam Aggarwal
 link: https://sanyamaggarwal.medium.com/how-to-upgrade-to-npm-packages-with-breaking-changes-8bde1ed45685
 post_type: medium
-description: A whole lot of features rolled out in ES6 and this caused a lot of npm packages to release newer versions with breaking changes
+description: A whole lot of features rolled out in ES6 and this caused a lot of npm packages to release newer versions with breaking changes ...
 
 ---
 
