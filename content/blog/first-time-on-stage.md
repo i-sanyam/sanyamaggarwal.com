@@ -11,4 +11,6 @@ description: It is all about the adrenaline and I acquire it from where I can.
 
 It is all about the adrenaline and I acquire it from where I can.
 
+This was my first ever stage performance. I am performing at a Hostel Night at my alma mater, [NIT Jalandhar](https://www.nitj.ac.in/).
+
 ##
