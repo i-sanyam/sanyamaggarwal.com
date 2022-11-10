@@ -5,8 +5,7 @@ tags: [mysql, partition, optimisation, time series data, best practices]
 author: Sanyam Aggarwal
 link: https://sanyamaggarwal.medium.com/partitioning-optimising-query-time-by-2000x-in-a-table-with-500m-rows-80c16100fede
 post_type: medium
-description: There was one incident where the API which fetched the data for our homepage was very slow, leading to users restarting the application and ....
-
+description: There was one incident where the API which fetched the data for our homepage was very slow, leading to users restarting the ...
 ---
 
 A lot of data in applications is time-stamped and is it is sequenced in that manner. Only the data of a defined time range will be really required in the active working of the application and the rest will just be historical data available for downloads, reports etc. A great example of this can be order history of a user. Only the past 1 month order data may be relevant and available for the user to perform some actions. Time series data is usually best managed in partitions. 

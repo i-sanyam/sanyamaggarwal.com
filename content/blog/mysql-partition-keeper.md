@@ -5,7 +5,7 @@ tags: [mysql, partition, nodejs, time series data]
 author: Sanyam Aggarwal
 link: https://sanyamaggarwal.medium.com/how-to-automatically-maintain-a-mysql-tables-partitions-with-mysqlpartitionkeeper-f9923f973135
 post_type: medium
-description: There cannot be an infinite number of partitions, so partitioning comes with the overhead of maintenance. Manual Partition Maintenance is prone to ...
+description: There cannot be an infinite number of partitions, so partitioning comes with the overhead of maintenance. Manual Partition ...
 
 ---
 
