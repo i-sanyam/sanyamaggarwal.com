@@ -33,7 +33,11 @@
             {{ end }}
 					<div class="description">
 						{{ if isset .Params "description" }}
-							{{ .Description }}
+							{{ if gt (len .Description) 120 }}
+								{{ slicestr .Description 0 120 }}...
+							{{ else }}
+								{{ .Description }}
+							{{ end }}
 						{{ else if gt (len .RawContent) 120 }}
 							{{ slicestr .RawContent 0 120 }}...
 						{{ else }}
