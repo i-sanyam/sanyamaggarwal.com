@@ -19,7 +19,7 @@
 				{{ else if in .Params.link "medium.com" }}
 					<!-- medium -->
 					<p><a href="{{ .Params.link }}" rel="noopener noreferrer" target="_blank">Read on Medium &rarr;</a></p>
-				{{ else }}
+				{{ else if .Params.link }}
 					<p><a href="{{ .Params.link }}" rel="noopener noreferrer" target="_blank">Go to link &rarr;</a></p>
 				{{ end }}
 
