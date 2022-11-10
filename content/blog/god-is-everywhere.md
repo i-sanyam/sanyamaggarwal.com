@@ -6,13 +6,13 @@ tags: [life]
 author: Sanyam Aggarwal
 # link: https://www.quora.com/Whats-your-most-unforgettable-travel-experience/answer/Sanyam-Aggarwal-1
 # post_type: quora
-# description: It is all about the adrenaline and I acquire it from where I can.
+description: I was about to get lost in an unknown country, when I was 10. This dates back to the summers of 2008–2009 when I was around 10 years old.
 
 ---
 
 **I was about to get lost in an unknown country, when I was 10.**
 
-Well, this dates back to the summers of 2008–2009 when I was around 10 years old.
+This dates back to the summers of 2008–2009 when I was around 10 years old.
 
 My family - my little sister, parents and my grandparents - was planning to go to Malaysia-Singapore in the upcoming winter holidays. This would be our first trip to a foreign country. We were just in time for the bookings, for there is a huge rush for holiday bookings at this point of time. So, we were lucky to get a connecting flight to Kuala Lumpur with a night stop at Colombo, Sri Lanka. We reached Colombo Airport at 11 PM and were headed to our hotel for the night stay. Our flight was scheduled to take off at 5 AM the next day and we were told that pickup time will be 3:30 AM. So, in the morning we woke up to a pick-up call, got ready by 3:30AM and were ready to board our coach to the airport, when my ਦਾਦਾ ਜੀ (grandfather) told my father, I still remember the exact words -
 

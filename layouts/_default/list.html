@@ -34,14 +34,14 @@
 					<div class="description">
 						{{ if isset .Params "description" }}
 							{{ if gt (len .Description) 120 }}
-								{{ slicestr .Description 0 120 }}...
+								{{ slicestr .Description 0 120 | markdownify }}...
 							{{ else }}
-								{{ .Description }}
+								{{ .Description | markdownify }}
 							{{ end }}
 						{{ else if gt (len .RawContent) 120 }}
-							{{ slicestr .RawContent 0 120 }}...
+							{{ slicestr .RawContent 0 120 | markdownify }}...
 						{{ else }}
-							{{ .RawContent }}
+							{{ .RawContent | markdownify }}
 						{{ end }}
 					</div>
 					{{ if .Params.tile }}
