@@ -1,4 +1,5 @@
 {{ partial "header.html" . }}
+{{ if ne .Params.hidden true }}
 		<div class="post single">
 			<div class="post-header">
 				<h3 class="title">{{ .Title }}</h3>
@@ -39,4 +40,7 @@
 			</div>
 		</div>
 	</div>
+{{ else }}
+404. Requested page was not found.
+{{ end }}
 {{ partial "footer.html" . }}
