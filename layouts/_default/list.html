@@ -23,7 +23,7 @@
         </div>
         <div class="body">
 			{{ if .Params.tile }}
-			<h4 class="title"><a href="{{ .Params.link }}" target="_blank">{{ .Title }}</a></h4>
+				<h4 class="title"><a href="{{ .Params.link }}" target="_blank">{{ .Title }}</a></h4>
             {{ else }}
 				<h4 class="title"><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
 			{{ end }}
@@ -31,6 +31,7 @@
             {{ if .Params.link }}
                 <span class="domain">{{ replace $u.Host "www." "" }}</span>
             {{ end }}
+
 					<div class="description">
 						{{ if isset .Params "description" }}
 							{{ if gt (len .Description) 120 }}
