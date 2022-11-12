@@ -19,7 +19,8 @@
 		<div class="post">
 			<div class="date">
 				{{ if eq .Params.tile true }}
-					<span class="monthyear">{{ .Date | dateFormat "Jan 2006" }}</span>
+					<span class="month">{{ .Date | dateFormat "Jan" }}</span>
+					<span class="day">{{ .Date | dateFormat "2006" }}</span>
 				{{ else }}
 					<span class="day">{{ .Date | dateFormat "02" }}</span>
 					<span class="year">{{ .Date | dateFormat "Jan 2006" }}</span>

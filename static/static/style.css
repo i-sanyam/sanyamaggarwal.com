@@ -297,7 +297,7 @@ ul.flat li {
         color: var(--grey);
         font-size: 0.875em;
     }
-    .posts .date .monthyear {
+    .posts .date .month {
         font-size: 1.125em;
         margin-bottom: 5px;
     }
