@@ -292,9 +292,14 @@ ul.flat li {
         flex: 10%;
         color: var(--grey);
     }
+
     .posts .date .year {
         color: var(--grey);
         font-size: 0.875em;
+    }
+    .posts .date .monthyear {
+        font-size: 1.125em;
+        margin-bottom: 5px;
     }
     .posts .date .day {
         font-size: 1.5em;

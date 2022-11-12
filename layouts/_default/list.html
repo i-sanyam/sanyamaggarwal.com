@@ -16,50 +16,58 @@
 		{{ range $paginator.Pages }}
 			{{ $u := urls.Parse .Params.link }}
 
-			<div class="post">
-        <div class="date">
-            <span class="day">{{ .Date | dateFormat "02" }}</span>
-            <span class="year">{{ .Date | dateFormat "Jan 2006" }}</span>
-        </div>
-        <div class="body">
-			{{ if .Params.tile }}
-				<h4 class="title"><a href="{{ .Params.link }}" target="_blank">{{ .Title }}</a></h4>
-            {{ else }}
-				<h4 class="title"><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
-			{{ end }}
+		<div class="post">
+			<div class="date">
+				{{ if eq .Params.tile true }}
+					<span class="monthyear">{{ .Date | dateFormat "Jan 2006" }}</span>
+				{{ else }}
+					<span class="day">{{ .Date | dateFormat "02" }}</span>
+					<span class="year">{{ .Date | dateFormat "Jan 2006" }}</span>
+				{{ end }}
+			</div>
 
-            {{ if .Params.link }}
-                <span class="domain">{{ replace $u.Host "www." "" }}</span>
-            {{ end }}
+			<div class="body">
 
-					<div class="description">
-						{{ if isset .Params "description" }}
-							{{ if gt (len .Description) 120 }}
-								{{ slicestr .Description 0 120 | markdownify }}...
+				{{ if eq .Params.tile true }}
+					<h4 class="title"><a href="{{ .Params.link }}" target="_blank">{{ .Title }}</a></h4>
+				{{ else }}
+					<h4 class="title"><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
+				{{ end }}
+
+				{{ if .Params.link }}
+					<span class="domain">{{ replace $u.Host "www." "" }}</span>
+				{{ end }}
+
+				<div class="description">
+					{{ if isset .Params "description" }}
+						{{ if gt (len .Description) 120 }}
+							{{ slicestr .Description 0 120 | markdownify }}...
 							{{ else }}
 								{{ .Description | markdownify }}
 							{{ end }}
-						{{ else if gt (len .RawContent) 120 }}
-							{{ slicestr .RawContent 0 120 | markdownify }}...
-						{{ else }}
-							{{ .RawContent | markdownify }}
-						{{ end }}
-					</div>
-					{{ if .Params.tile }}
+					{{ else if gt (len .RawContent) 120 }}
+						{{ slicestr .RawContent 0 120 | markdownify }}...
+					{{ else }}
+						{{ .RawContent | markdownify }}
+					{{ end }}
+				</div>
+
+				{{ if eq .Params.tile true }}
 					<div class="tags">
 						{{ if ne .Type "page" }}
 							{{ if gt .Params.tags 0 }}
 								<ul class="flat">
 									{{ range .Params.tags }}
-									<li><a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a></li>
+										<li><a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a></li>
 									{{ end }}
 								</ul>
 							{{ end }}
 						{{ end }}
 					</div>
-           			{{ end }}
-				</div>
+				{{ end }}
+
 			</div>
+		</div>
 		{{ end }}
 
 	</div>
