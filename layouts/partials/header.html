@@ -1,6 +1,18 @@
 <!DOCTYPE html>
 <html>
 <head>
+
+	{{ if .Site.Params.GoogleAnalyticsTagId }}
+		<!-- Google tag (gtag.js) -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id={{ .Site.Params.GoogleAnalyticsTagId }}"></script>
+		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+			gtag('config', "{{ .Site.Params.GoogleAnalyticsTagId }}");
+		</script>
+	{{ end }}
+
 	{{- $title := ( .Title ) -}}
 	{{- $siteTitle := ( .Site.Title ) -}}
 	{{- if .IsHome -}}

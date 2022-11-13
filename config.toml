@@ -6,7 +6,8 @@ paginate = 20
 
 [params]
 subtitle = "Living to Learn | Learning to Live"
-thumbnail = "thumb.jpeg"
+thumbnail = "thumb.png"
+googleAnalyticsTagId = "G-QJTB2PMJ2Y"
 
 [taxonomies]
    tag = "tags"
