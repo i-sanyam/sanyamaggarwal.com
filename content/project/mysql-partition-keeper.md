@@ -1,6 +1,6 @@
 ---
 date: '2021-11-28'
-title: MySQLPartitionKeeper
+title: MySQL Partition Keeper
 tags: [mysql, nodejs, javascript]
 author: Sanyam Aggarwal
 link: https://github.com/i-sanyam/MySQLPartitionKeeper
