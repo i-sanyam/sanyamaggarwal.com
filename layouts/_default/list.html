@@ -12,7 +12,7 @@
 	{{ end }}
 
 	<div class="posts">
-		{{ $paginator := .Paginate (where .Pages "Params.hidden" "ne" true) }}
+		{{ $paginator := .Paginate (where .Pages "Params.hideList" "ne" true) }}
 		{{ range $paginator.Pages }}
 			{{ $u := urls.Parse .Params.link }}
 

@@ -7,5 +7,6 @@ link: https://github.com/i-sanyam/sanyamaggarwal.com
 post_type: github
 description: Personal Homepage created with Hugo hosted on Github Pages
 tile: true
-hidden: true
+hideList: true
+hideSingle: true
 ---
