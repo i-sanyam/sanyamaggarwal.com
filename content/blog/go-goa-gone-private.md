@@ -18,7 +18,11 @@ Went to hire [Activas](https://en.wikipedia.org/wiki/Honda_Activa) for rent firs
 
 ![Aguada Fort](/static/images/goa/aguada_fort.jpg "Lighthouse at Aguada Fort")
 
-Shopped for fancy shirts in the afternoon, the Goan vibe! Got swollen thumbs by playing volleyball in the evening at Candolim Beach. Lost my spectacles by running and lying into the waves. Bought groceries for the breakfasts, and had dinner and shots at a [recommended place](https://www.zomato.com/goa/inferno-candolim) but didn't like it much. But Punjabis carry their Vibe and I gave a tribute to the legend himself, [Sidhu Moose Wala](https://en.wikipedia.org/wiki/Sidhu_Moose_Wala).
+Shopped for fancy shirts in the afternoon, the Goan vibe! Got swollen thumbs by playing volleyball in the evening at Candolim Beach. Lost my spectacles by running and lying into the waves. Bought groceries for the breakfast, and had dinner and shots at a highly recommended place - [Inferno](https://www.zomato.com/goa/inferno-candolim) but didn't like it much. 
+
+![Three filled up shot glasses with whiskey on a table](/static/images/goa/inferno_shots.jpg "Fireball Shots at Inferno, I am trying neither of them again 🙅‍♂️")
+
+But Punjabis carry their Vibe and I gave a tribute to the legend himself, [Sidhu Moose Wala](https://en.wikipedia.org/wiki/Sidhu_Moose_Wala).
 
 ### Day 3 - Saturday, November 26, 2022
 I made breakfast for our everybody 😁. We played voleyball once again but this time in the pool. 
