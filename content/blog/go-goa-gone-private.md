@@ -18,7 +18,12 @@ Went to hire [Activas](https://en.wikipedia.org/wiki/Honda_Activa) for rent firs
 
 ![Aguada Fort](/static/images/goa/aguada_fort.jpg "Lighthouse at Aguada Fort")
 
-Shopped for fancy shirts in the afternoon, the Goan vibe! Got swollen thumbs by playing volleyball in the evening at Candolim Beach. Lost my spectacles by running and lying into the waves. Bought groceries for the breakfast. We had dinner and shots at a highly recommended place - [Inferno](https://www.zomato.com/goa/inferno-candolim) but didn't like it much. 
+Shopped for fancy shirts in the afternoon, the Goan vibe!
+
+![Sanyam Aggarwal holding a shirt in front of him](/static/images/goa/shirts.jpg "They didn't have my size for this one 🥲")
+
+
+Got swollen thumbs by playing volleyball in the evening at Candolim Beach. Lost my spectacles by running and lying into the waves. Bought groceries for the breakfast. We had dinner and shots at a highly recommended place - [Inferno](https://www.zomato.com/goa/inferno-candolim) but didn't like it much. 
 
 ![Three filled up shot glasses with whiskey on a table](/static/images/goa/inferno_shots.jpg "Fireball Shots at Inferno, I am trying neither of them again 🙅‍♂️")
 
