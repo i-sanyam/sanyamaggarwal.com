@@ -46,7 +46,8 @@ Both of us had to be carried back to the Airbnb, courtesy of Maddy and TG. I and
 ### Day 4 - Sunday, November 27, 2022
 I woke up with a very bad hangover, dizzy head and severe heartburn. While we were asleep Maddy and TG were out to bring medicines and the Activas parked at the Casino 😅. Dhillon made scrambled eggs for ailing me. He was cooking them for the first time, and that too in a very bad hangover. I felt better after taking medicines with coconut water. We checked out to move into our next location [goStops Baga](https://gostops.com/book-rooms-in-goabaga-hostel/).
 
-{{< video src="/static/images/goa/checkout.mp4" type="video/mp4" preload="auto" loop="true">}}
+{{< video src="/static/images/goa/checkout.mp4" type="video/mp4" preload="auto" loop="true" description="We can definitely carry more luggage on an Activa than a standard hatchback">}}
+
 
 Daru, Chakna and whatnot were dumped into the goStops Fridge. Visited the very scenic Anjuna Beach, had simple lunch to my delight and everyone's dismay and played with a [Frisbee](https://en.wikipedia.org/wiki/Frisbee) at the Baga beach. I got a recommendation for a [Pure Veg Restaurant](https://goo.gl/maps/et7ASw9YKgiDgBo6A) nearby from the [Bakery](https://goo.gl/maps/fkbHucYEfMa7jZ889) we bought TG's Birthday Cake. I loved the meal. My stomach was feeling so acidic, I just ate Pure Vegetarian throughout the whole tour, even missed trying out Sea Food, I have to make another visit for that. We played [Jenga](https://en.wikipedia.org/wiki/Jenga), celebrated TG's birthday with all the hostel inmates, and danced and partied hard. Sunglasses in the night, weird stares. No shots for me. Dhillon can be seen drinking shots with the chocolate cake.
 

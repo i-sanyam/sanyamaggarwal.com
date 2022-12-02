@@ -1,5 +1,8 @@
-<video class="video-shortcode" preload="{{ .Get "preload" }}" loop="{{ .Get "loop" }}" controls>
-    <source src="{{ .Get "src" }}" type="{{ .Get "type" }}">
-    There should have been a video here but your browser does not seem
-    to support it.
-</video>
+<figure>
+    <video class="video-shortcode" preload="{{ .Get "preload" }}" loop="{{ .Get "loop" }}" controls>
+        <source src="{{ .Get "src" }}" type="{{ .Get "type" }}">
+        There should have been a video here but your browser does not seem
+        to support it.
+    </video>
+    <figcaption>{{ .Get "description" }}</figcaption>
+</figure>
