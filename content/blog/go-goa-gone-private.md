@@ -34,7 +34,7 @@ I loved 😍 yesterday's dinner at [Anand Pure Veg Restaurant]((https://goo.gl/m
 ### Day 6 - Tuesday, November 29, 2022
 This was our last day in Goa! Maddy and I were on Activa and TG and Dhillon on another. The first stop was at the Shiva's Face at Vagator beach. It was a really scorching sun out here instead of yesterday's windy day.
 After that, we headed for Arambol beach. TG drove too fast and went into a no-entry-zone and we just got saved from getting a big challan. With TG's fast driving and Dhillon's excellent navigation skills, they reached Morjim, while Maddy and I were at Arambol. This was the first time we saw these many foreigners in one place.
-Then we headed for lunch at Morjim Beach where TG and Dhillon were already waiting for us. I had a sun bath, an amazingly simple Dal at Lunch, and a quick nap! I enjoyed it very much.
+Then we headed for lunch at Morjim Beach where TG and Dhillon were already waiting for us. I had a sun bath, an amazingly simple Dal at Lunch, and a quick nap at the beach amongst the sea breeze! 🤩
 Soon it was time to return back to goStops Baga.
 Since we didn't drink much on the trip - booze, chakna and groceries 🥲.
 At night, while Maddy and I were on our way to return the hired Activas, TG called me to inform that the Taxi Drivers around are not allowing our booked cab driver to pick him up from goStops and are creating a scene. They hit his car as well. I just thought why can't we get just a single simple thing straight.
