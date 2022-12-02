@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "Sanyam's Homepage"
 subtitle = "Sanyam's Personal Homepage"
 paginate = 20
+disqusShortname = 'saggarwal'
 
 [params]
 subtitle = "Living to Learn | Learning to Live"
