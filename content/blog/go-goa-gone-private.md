@@ -54,7 +54,7 @@ Daru, Chakna and whatnot were dumped into the goStops Fridge. Visited the very s
 
 {{<ytvideo id="YK2Hv03sHcc" title="Jenga Masters!" description="Played a lot of Jenga">}}
 
-{{<ytvideo id="yOMrfLHVGK0" title="TG's Birthday Celebration at goStops Baga" description="Celebrated TG's birthday with all the goStops Hostel inmates">}}
+{{<ytvideo id="YYfGvaNCt6I" title="TG's Birthday Celebration at goStops Baga" description="Celebrated TG's birthday with all the goStops Hostel inmates">}}
 
 and danced and partied hard.
 
