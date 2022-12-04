@@ -69,7 +69,7 @@ We got ferried again to a beach in South Goa, where the other activities - Para 
 
 ![A view of the ocean](/static/images/goa/ferry.png "The views were amazing, I sparked up a chat with the Captain of the Ferry")
 
-Due to the strong winds, the boat was shaking very much and a lot of people had boarded off, and I was not feeling any good either. I tried to sleep, and I don't know when I missed the call to go to the other water sports, and in this way, all of this day went in vain and I just sat the whole day on the ferry 😔.
+Due to the strong winds, the boat was shaking very much and a lot of people had vomited and boarded off, and I was not feeling any good either. I tried to sleep, and I don't know when I missed the call to go to the other water sports, and in this way, all of this day went in vain and I just sat the whole day on the ferry 😔.
 Another reason to plan another visit.
 I loved 😍 yesterday's dinner at [Anand Pure Veg Restaurant]((https://goo.gl/maps/et7ASw9YKgiDgBo6A)) and the cakes at [Big Bakery](https://goo.gl/maps/fkbHucYEfMa7jZ889), so I repeated the same. I became their repeat customer.
 
@@ -78,7 +78,7 @@ This was our last day in Goa! Maddy and I were on Activa and TG and Dhillon on a
 
 ![Sanyam Aggarwal praying in front of Shiva's Face at Vagator Beach](/static/images/goa/vagator.jpg "Babam Bam Babam Bam Bam Lehri")
 
-After that, we headed for Arambol beach. TG drove too fast and went into a no-entry-zone and we just got saved from getting a big challan. With TG's fast driving and Dhillon's excellent navigation skills, they reached Morjim, while Maddy and I were at Arambol.
+After that, we headed together for Arambol beach. TG drove too fast and went into a no-entry-zone and we just got saved from getting a big challan. With TG's fast driving and Dhillon's excellent navigation skills, they reached Morjim, while Maddy and I were at Arambol.
 
 Then we headed for lunch at Morjim Beach where TG and Dhillon were already waiting for us. I had a sun bath, an amazingly simple Dal at Lunch, and a quick nap at the beach amongst the sea breeze! 🤩
 
