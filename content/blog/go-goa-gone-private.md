@@ -40,6 +40,8 @@ Yes, you guessed right, we didn't visit the Alcohol Museum.
 
 In the evening the Old Goa visit was planned but was vetoed and the main highlight of  the day was a Cruise Casino. [Maddy](https://www.linkedin.com/in/ankitgoyal1125) and I reached first at one casino and booked tickets too quickly to avoid getting sold out on a weekend, even when TG and [Dhillon](https://www.linkedin.com/in/dhillon-harpreet/) had lost way and were midway. When they reached an hour later, to our surprise, both of them were in shorts and were not allowed to enter 🤦‍♂️. Unable to find trousers nearby, they went all the way back to Airbnb, Candolim  to change and then again came back. They were an hour late, once again 🫡. I got celebrity attention, thanks to my sunglasses which I was wearing at night. What a vibe there was on the Skybar! I along with Dhillon had too many cocktails.
 
+{{<ytvideo id="NOzarPC1Qqg" loop="true" title="Full tight in Goa" description="If I can drink a bucket, then Dhillon can drink the ocean">}}
+
 ![Selfie of Sanyam Aggarwal and Harpreet Singh on the Skybar of the Deltin Royale Cruise Casino](/static/images/goa/deltin_sober.jpg "I think this is the last time Dhillon and I were seen sober")
 
 Both of us had to be carried back to the Airbnb, courtesy of Maddy and TG. I and a drunk Dhillon were vomiting on our way back to the Airbnb, which was enough to get them off of their two shots high 😅. I feel sorry and grateful to them at the same time 😂. There's nothing to write much about because you didn't drink enough if you remember what happened. Apparently the dinner was really great, which Dhillon and I didn't even taste.
