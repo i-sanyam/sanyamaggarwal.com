@@ -25,7 +25,7 @@ Shopped for fancy shirts in the afternoon, the Goan vibe!
 
 Got swollen thumbs by playing volleyball in the evening at Candolim Beach. Lost my spectacles by running and lying into the waves. Bought groceries for the breakfast. We had dinner and shots at a highly recommended place - [Inferno](https://www.zomato.com/goa/inferno-candolim) but didn't like it much. 
 
-![Three filled up shot glasses with whiskey on a table](/static/images/goa/inferno_shots.jpg "Fireball Shots at Inferno, I am trying neither of them again 🙅‍♂️")
+{{<ytvideo id="v_ZxxPy3DKs" loop="true" title="Fireball Shots at Inferno, Candolim, Goa" description="Fireball Shots at Inferno, I am trying neither of them again 🙅‍♂️">}}
 
 But Punjabis carry their Vibe and I gave a tribute to the legend himself, [Sidhu Moose Wala](https://en.wikipedia.org/wiki/Sidhu_Moose_Wala).
 
