@@ -11,7 +11,11 @@ hideList: true
 **I hit the snooze button on my overwhelming work schedule and Go Goa Gone to take a much deserved detour**
 
 ### Day 1 - Thursday, November 24, 2022
-The baniya inside the Aggarwal booked the flight tickets **two months** in advance. The flight was Chandigarh-Delhi-Goa and I thought that there are no direct flights until a week ago when I found out 😲 that there were direct flights that too around the same price I booked. Did nothing much, arrived Goa at 7:30 PM and reached Candolim at our [Airbnb](https://www.airbnb.co.in/rooms/53588509?check_in=2023-01-29&check_out=2023-02-03&guests=1&adults=8&s=67&unique_share_id=74f7e97d-209d-47fe-b81d-f025ef0f012e) at 9:00PM.
+The baniya inside the Aggarwal booked the flight tickets **two months** in advance. The flight was Chandigarh-Delhi-Goa and I thought that there are no direct flights until a week ago when I found out 😲 that there were direct flights that too around the same price I booked.
+
+![An in-flight shot of Airbus A321 Neo's Left Wing](/static/images/goa/color_pallete.jpg "I just love the seats at the wings! Look at the amazing color pallete 😋")
+
+We arrived at our [Airbnb](https://www.airbnb.co.in/rooms/53588509?check_in=2023-01-29&check_out=2023-02-03&guests=1&adults=8&s=67&unique_share_id=74f7e97d-209d-47fe-b81d-f025ef0f012e) in Candolim at around 9:00PM.
 
 ![I Love Candolim banner at a pond](/static/images/goa/i_love_candolim.jpg "Welcome to Goa!")
 
