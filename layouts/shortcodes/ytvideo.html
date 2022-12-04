@@ -1,0 +1,14 @@
+<div>
+    <figure>
+        <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+            <iframe src="https://youtube.com/embed/{{ .Get "id" }}?mute=1{{ with .Get "autoplay" }}{{ if eq . "true" }}&autoplay=1{{ end }}{{ end }}{{ with .Get "loop" }}{{ if eq . "true" }}&loop=1{{ end }}{{ end }}"
+                style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0px;"
+                title="{{ .Get " title" }}"
+                frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen
+            >
+            </iframe>
+        </div>
+        <figcaption>{{ .Get "description" }}</figcaption>
+    </figure>
+</div>
