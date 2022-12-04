@@ -66,9 +66,11 @@ We had simple lunch to my delight and everyone's dismay and played with a [Frisb
 
 {{<ytvideo id="YYfGvaNCt6I" title="TG's Birthday Celebration at goStops Baga" description="Celebrated TG's birthday with all the goStops Hostel inmates">}}
 
-and danced and partied hard.
+Danced and partied hard.
 
-Sunglasses in the night, weird stares. No shots for me. Dhillon can be seen drinking shots with the chocolate cake.
+![TG handing over a bottle of whiskey as trophy to Sanyam Aggarwal. Maddy on the side.](/static/images/goa/pushup_champ.jpg "I won the pushup championship from Maddy")
+
+Sunglasses in the night, weird stares. No shots for me.
 
 ### Day 5 - Monday, November 28, 2022
 We are usually not on time, but this time we were and were waiting at the designated spot for the Coach to take us to the water sports, but God doesn't like the normal ways for us. We had to follow the Coach and boarded a ferry to the Grand Islands where the water sports would take place. It was spanned for the whole day and we were scheduled to return in the evening. It was around one hour journey, to everyone's plight and my pleasure Poha was served in Breakfast. On the way, a fellow traveller explained the possible danger of a jellyfish sting. The very first activity was Scuba Diving. I went in the water and could breathe in but as soon as we got a little deeper, I would start losing breath, so I didn't do it properly. So didn't Dhillon, we both had the same diver, so we thought maybe it is because of the diver, who didn't give us good enough training. We jumped into the ocean to take a swim where I was already panting because neither there was some safety rope, nor I was able to swim because the really strong waves pushed me very far away from the ferry. To add more salt, someone shouted Jellyfish and I got really panicked. Thanks to TG and another guy I was safely escorted back to the ferry.
