@@ -50,9 +50,13 @@ I woke up with a very bad hangover, dizzy head and severe heartburn. While we we
 {{<ytvideo id="uDSPk5p0pEI" loop="true" title="Checkout from Airbnb Candolim" description="We can definitely carry more luggage on an Activa than a standard hatchback">}}
 
 
-Daru, Chakna and whatnot were dumped into the goStops Fridge. Visited the very scenic Anjuna Beach, had simple lunch to my delight and everyone's dismay and played with a [Frisbee](https://en.wikipedia.org/wiki/Frisbee) at the Baga beach. I got a recommendation for a [Pure Veg Restaurant](https://goo.gl/maps/et7ASw9YKgiDgBo6A) nearby from the [Bakery](https://goo.gl/maps/fkbHucYEfMa7jZ889) we bought TG's Birthday Cake. I loved the meal. My stomach was feeling so acidic, I just ate Pure Vegetarian throughout the whole tour, even missed trying out Sea Food, I have to make another visit for that. We played [Jenga](https://en.wikipedia.org/wiki/Jenga), celebrated TG's birthday with all the hostel inmates, and danced and partied hard. 
+Daru, Chakna and whatnot were dumped into the goStops Fridge. Visited the very scenic Anjuna Beach, had simple lunch to my delight and everyone's dismay and played with a [Frisbee](https://en.wikipedia.org/wiki/Frisbee) at the Baga beach. I got a recommendation for a [Pure Veg Restaurant](https://goo.gl/maps/et7ASw9YKgiDgBo6A) nearby from the [Bakery](https://goo.gl/maps/fkbHucYEfMa7jZ889) we bought TG's Birthday Cake. I loved the meal. My stomach was feeling so acidic, I just ate Pure Vegetarian throughout the whole tour, even missed trying out Sea Food, I have to make another visit for that. We were back at GoStops and it is party time!!
 
-{{<ytvideo id="8Od6hVVVock" title="TG's Bday at goStops Baga" description="Thanks to the staff at goStops Baga who permitted us to party in their silent hours">}}
+{{<ytvideo id="oDxJuztQ-bo" title="Jenga Masters" description="Played a lot of Jenga">}}
+
+{{<ytvideo id="8Od6hVVVock" title="TG's Bday at goStops Baga" description="Celebrated TG's birthday with all the hostel inmates">}}
+
+and danced and partied hard.
 
 Sunglasses in the night, weird stares. No shots for me. Dhillon can be seen drinking shots with the chocolate cake.
 
