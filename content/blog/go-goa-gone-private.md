@@ -52,7 +52,11 @@ I woke up with a very bad hangover, dizzy head and severe heartburn. While we we
 {{<ytvideo id="uDSPk5p0pEI" loop="true" title="Checkout from Airbnb Candolim" description="We can definitely carry more luggage on an Activa than a standard hatchback">}}
 
 
-Daru, Chakna and whatnot were dumped into the goStops Fridge. Visited the very scenic Anjuna Beach, had simple lunch to my delight and everyone's dismay and played with a [Frisbee](https://en.wikipedia.org/wiki/Frisbee) at the Baga beach. I got a recommendation for a [Pure Veg Restaurant](https://goo.gl/maps/et7ASw9YKgiDgBo6A) nearby from the [Bakery](https://goo.gl/maps/fkbHucYEfMa7jZ889) we bought TG's Birthday Cake. I loved the meal. My stomach was feeling so acidic, I just ate Pure Vegetarian throughout the whole tour, even missed trying out Sea Food, I have to make another visit for that. We were back at GoStops.
+Daru, Chakna and whatnot were dumped into the goStops Fridge.
+
+![Sanyam Aggarwal posing at Anjuna Beach Water Front](/static/images/goa/anjuna.jpg "Visited the very scenic Anjuna Beach")
+
+We had simple lunch to my delight and everyone's dismay and played with a [Frisbee](https://en.wikipedia.org/wiki/Frisbee) at the Baga beach. I got a recommendation for a [Pure Veg Restaurant](https://goo.gl/maps/et7ASw9YKgiDgBo6A) nearby from the [Bakery](https://goo.gl/maps/fkbHucYEfMa7jZ889) we bought TG's Birthday Cake. I loved the meal. My stomach was feeling so acidic, I just ate Pure Vegetarian throughout the whole tour, even missed trying out Sea Food, I have to make another visit for that. We were back at GoStops.
 
 {{<ytvideo id="YK2Hv03sHcc" title="Jenga Masters!" description="Played a lot of Jenga">}}
 
