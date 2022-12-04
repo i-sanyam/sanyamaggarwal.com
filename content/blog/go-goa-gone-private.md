@@ -76,13 +76,18 @@ We had simple lunch to my delight and everyone's dismay and played with a [Frisb
 
 Danced and partied hard.
 
-![TG handing over a bottle of whiskey as trophy to Sanyam Aggarwal. Maddy on the side.](/static/images/goa/pushup_champ.jpg "I won the pushup championship from Maddy")
+![TG handing over a bottle of whiskey as trophy to Sanyam Aggarwal. Maddy on the side](/static/images/goa/pushup_champ.jpg "I won the pushup championship from Maddy")
 
 Sunglasses in the night, weird stares. No shots for me.
 
 ### Day 5 - Monday, November 28, 2022
 We are usually not on time, but this time we were and were waiting at the designated spot for the Coach to take us to the water sports, but God doesn't like the normal ways for us. We had to follow the Coach and boarded a ferry to the Grand Islands where the water sports would take place. It was spanned for the whole day and we were scheduled to return in the evening. It was around one hour journey, to everyone's plight and my pleasure Poha was served in Breakfast. On the way, a fellow traveller explained the possible danger of a jellyfish sting. The very first activity was Scuba Diving. I went in the water and could breathe in but as soon as we got a little deeper, I would start losing breath, so I didn't do it properly. So didn't Dhillon, we both had the same diver, so we thought maybe it is because of the diver, who didn't give us good enough training. We jumped into the ocean to take a swim where I was already panting because neither there was some safety rope, nor I was able to swim because the really strong waves pushed me very far away from the ferry. To add more salt, someone shouted Jellyfish and I got really panicked. Thanks to TG and another guy I was safely escorted back to the ferry.
-We got ferried again to a beach in South Goa, where the other activities - Para Sailing, Bumper Ride, Banana Ride, Jet Ski, was to take place. Since the wind was very strong and hence the waves, a lot of people were feeling nauseatic, and were vomiting. It was enough to make me feel nauseous today as my heartbeat was already first. People were happy - making a lot of noises, in lunch fish was served - which was really smelly, and it made conditions worse for me. The guys went parasailing and I skipped. Due to the strong winds, the boat was shaking very much and a lot of people had boarded off, and I was not feeling any good either. I tried to sleep, and I don't know when I missed the call to go to the other water sports, and in this way, all of this day went in vain and I just sat the whole day on the ferry 😔.
+
+We got ferried again to a beach in South Goa, where the other activities - Para Sailing, Bumper Ride, Banana Ride, Jet Ski, was to take place. Since the wind was very strong and hence the waves, a lot of people were feeling nauseatic, and were vomiting. It was enough to make me feel nauseous today as my heartbeat was already first. People were happy - making a lot of noises, in lunch fish was served - which was really smelly, and it made conditions worse for me. The guys went parasailing and I skipped.
+
+![A view of the ocean](/static/images/goa/ferry.png "The views were amazing, I sparked up a chat with the Captain of the Ferry")
+
+Due to the strong winds, the boat was shaking very much and a lot of people had boarded off, and I was not feeling any good either. I tried to sleep, and I don't know when I missed the call to go to the other water sports, and in this way, all of this day went in vain and I just sat the whole day on the ferry 😔.
 Another reason to plan another visit.
 I loved 😍 yesterday's dinner at [Anand Pure Veg Restaurant]((https://goo.gl/maps/et7ASw9YKgiDgBo6A)) and the cakes at [Big Bakery](https://goo.gl/maps/fkbHucYEfMa7jZ889), so I repeated the same. I became their repeat customer.
 
