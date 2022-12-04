@@ -11,7 +11,11 @@ hideList: true
 **I hit the snooze button on my overwhelming work schedule and Go Goa Gone to take a much deserved detour**
 
 ### Day 1 - Thursday, November 24, 2022
-The baniya inside the Aggarwal booked the flight tickets **two months** in advance. The flight was Chandigarh-Delhi-Goa and I thought that there are no direct flights until a week ago when I found out 😲 that there were direct flights that too around the same price I booked. Did nothing much, arrived Goa at 7:30 PM and reached Candolim at our [Airbnb](https://www.airbnb.co.in/rooms/53588509?check_in=2023-01-29&check_out=2023-02-03&guests=1&adults=8&s=67&unique_share_id=74f7e97d-209d-47fe-b81d-f025ef0f012e) at 9:00PM. Daaru was brought in advance by [Dhillon](https://www.linkedin.com/in/dhillon-harpreet/). After two shots in and went to Candolim, an amazing dine-in in [Uptown](https://www.instagram.com/uptowngoa) and enjoyed the live music there. Had a walk at Candolim Beach.
+The baniya inside the Aggarwal booked the flight tickets **two months** in advance. The flight was Chandigarh-Delhi-Goa and I thought that there are no direct flights until a week ago when I found out 😲 that there were direct flights that too around the same price I booked. Did nothing much, arrived Goa at 7:30 PM and reached Candolim at our [Airbnb](https://www.airbnb.co.in/rooms/53588509?check_in=2023-01-29&check_out=2023-02-03&guests=1&adults=8&s=67&unique_share_id=74f7e97d-209d-47fe-b81d-f025ef0f012e) at 9:00PM.
+
+![I Love Candolim banner at a pond](/static/images/goa/i_love_candolim.jpg "Welcome to Goa!")
+
+Daaru was brought in advance by [Dhillon](https://www.linkedin.com/in/dhillon-harpreet/). After two shots in and went to Candolim, an amazing dine-in in [Uptown](https://www.instagram.com/uptowngoa) and enjoyed the live music there. Had a walk at Candolim Beach.
 
 ### Day 2 - Friday, November 25, 2022
 Went to hire [Activas](https://en.wikipedia.org/wiki/Honda_Activa) for rent first thing in the morning. Had breakfast at a very bad place, nothing good opens before 10 AM in Goa, and if you are in a similar situation you will ask yourself, why you are a morning person in Goa. We visited [Aguada Fort](https://en.wikipedia.org/wiki/Fort_Aguada), what a hot day it was!
