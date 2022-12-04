@@ -11,7 +11,7 @@ hideList: true
 **I hit the snooze button on my overwhelming work schedule and Go Goa Gone to take a much deserved detour**
 
 ### Day 1 - Thursday, November 24, 2022
-The baniya inside the Aggarwal booked the flight tickets **two months** in advance. The flight was Chandigarh-Delhi-Goa and I thought that there are no direct flights until a week ago when I found out 😲 that there were direct flights that too around the same price I booked.
+The baniya inside the Aggarwal booked the flight tickets for Chandigarh-Delhi-Goa **two months** in advance. There were no direct flights when I booked. A week before our departure I found out 😲 that there were direct flights and that too around the same price I had booked for.
 
 ![An in-flight shot of Airbus A321 Neo's Left Wing](/static/images/goa/color_pallete.jpg "I just love the seats at the wings! Look at the amazing color pallete 😋")
 
