@@ -56,6 +56,8 @@ Daru, Chakna and whatnot were dumped into the goStops Fridge.
 
 ![Sanyam Aggarwal posing at Anjuna Beach Water Front](/static/images/goa/anjuna.jpg "Visited the very scenic Anjuna Beach")
 
+![Sanyam Aggarwal, Ankit Goyal and Harpreet Singh, having a conversation at the Anjuna Beach Front](/static/images/goa/anjuna.jpg "Dhillon, you drank more")
+
 We had simple lunch to my delight and everyone's dismay and played with a [Frisbee](https://en.wikipedia.org/wiki/Frisbee) at the Baga beach. I got a recommendation for a [Pure Veg Restaurant](https://goo.gl/maps/et7ASw9YKgiDgBo6A) nearby from the [Bakery](https://goo.gl/maps/fkbHucYEfMa7jZ889) we bought TG's Birthday Cake. I loved the meal. My stomach was feeling so acidic, I just ate Pure Vegetarian throughout the whole tour, even missed trying out Sea Food, I have to make another visit for that. We were back at GoStops.
 
 {{<ytvideo id="YK2Hv03sHcc" title="Jenga Masters!" description="Played a lot of Jenga">}}
