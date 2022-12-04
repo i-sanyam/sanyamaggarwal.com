@@ -22,7 +22,7 @@ We arrived at our [Airbnb](https://www.airbnb.co.in/rooms/53588509?check_in=2023
 Daaru was brought in advance by [Dhillon](https://www.linkedin.com/in/dhillon-harpreet/). After two shots in and went to Candolim, an amazing dine-in in [Uptown](https://www.instagram.com/uptowngoa) and enjoyed the live music there. Had a walk at Candolim Beach.
 
 ### Day 2 - Friday, November 25, 2022
-Went to hire [Activas](https://en.wikipedia.org/wiki/Honda_Activa) for rent first thing in the morning. Had breakfast at a very bad place, nothing good opens before 10 AM in Goa, and if you are in a similar situation you will ask yourself, why you are a morning person in Goa. We visited [Aguada Fort](https://en.wikipedia.org/wiki/Fort_Aguada), what a hot day it was!
+Went to hire [Activas](https://en.wikipedia.org/wiki/Honda_Activa) for rent first thing in the morning. Had breakfast at [a very bad place](https://goo.gl/maps/EcEAAyLHXZz4S3TK7). Most of the outlets open late and if you are in a similar situation you will ask yourself, why you are a morning person in Goa 🤦‍♂️. We visited [Aguada Fort](https://en.wikipedia.org/wiki/Fort_Aguada), what a hot day it was!
 
 ![Aguada Fort](/static/images/goa/aguada_fort.jpg "Lighthouse at Aguada Fort")
 
