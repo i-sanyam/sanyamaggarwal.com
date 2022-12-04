@@ -36,6 +36,8 @@ I made breakfast for our everybody 😁. We played voleyball once again but this
 
 I had to switch to my Prescription Powered Sunglasses for the whole tour. Thank God I carried them! On our way to visit the [Alcohol Museum](https://www.instagram.com/alcoholmuseum), I was handed over a visiting card for a Spa by a bypasser. Everyone except me (no I am not lying) wanted to have the experience and went for a spin. I was told to have lunch nearby in case of an SOS. While midway to the Airbnb, I got a call from [TG](https://www.linkedin.com/in/tarungupta2811/) to pick them back up as it turned out to be a fraud 🤣.
 
+![Tarun Gupta handing over money to Sanyam Aggarwal](/static/images/goa/anjuna.jpg "Receiving my unspent Spa Money as Cashback 🤩")
+
 Yes, you guessed right, we didn't visit the Alcohol Museum.
 
 In the evening the Old Goa visit was planned but was vetoed and the main highlight of  the day was a Cruise Casino. [Maddy](https://www.linkedin.com/in/ankitgoyal1125) and I reached first at one casino and booked tickets too quickly to avoid getting sold out on a weekend, even when TG and [Dhillon](https://www.linkedin.com/in/dhillon-harpreet/) had lost way and were midway. When they reached an hour later, to our surprise, both of them were in shorts and were not allowed to enter 🤦‍♂️. Unable to find trousers nearby, they went all the way back to Airbnb, Candolim  to change and then again came back. They were an hour late, once again 🫡. I got celebrity attention, thanks to my sunglasses which I was wearing at night. What a vibe there was on the Skybar! I along with Dhillon had too many cocktails.
@@ -54,7 +56,7 @@ I woke up with a very bad hangover, dizzy head and severe heartburn. While we we
 
 Daru, Chakna and whatnot were dumped into the goStops Fridge.
 
-![Sanyam Aggarwal posing at Anjuna Beach Water Front](/static/images/goa/anjuna.jpg "Visited the very scenic Anjuna Beach")
+![Sanyam Aggarwal posing at Anjuna Beach Water Front](/static/images/goa/anjuna.jpg "Visited the very scenic Anjuna Beach 😍")
 
 ![Sanyam Aggarwal, Ankit Goyal and Harpreet Singh, having a conversation at the Anjuna Beach Front](/static/images/goa/anjuna.jpg "Dhillon, you drank more")
 
