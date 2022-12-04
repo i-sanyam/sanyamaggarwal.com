@@ -36,7 +36,7 @@ I made breakfast for our everybody 😁. We played voleyball once again but this
 
 I had to switch to my Prescription Powered Sunglasses for the whole tour. Thank God I carried them! On our way to visit the [Alcohol Museum](https://www.instagram.com/alcoholmuseum), I was handed over a visiting card for a Spa by a bypasser. Everyone except me (no I am not lying) wanted to have the experience and went for a spin. I was told to have lunch nearby in case of an SOS. While midway to the Airbnb, I got a call from [TG](https://www.linkedin.com/in/tarungupta2811/) to pick them back up as it turned out to be a fraud 🤣.
 
-![Tarun Gupta handing over money to Sanyam Aggarwal](/static/images/goa/anjuna.jpg "Receiving my unspent Spa Money as Cashback 🤩")
+![Tarun Gupta handing over money to Sanyam Aggarwal](/static/images/goa/cashback.jpg "Receiving my unspent Spa Money as Cashback 🤩")
 
 Yes, you guessed right, we didn't visit the Alcohol Museum.
 
@@ -58,7 +58,7 @@ Daru, Chakna and whatnot were dumped into the goStops Fridge.
 
 ![Sanyam Aggarwal posing at Anjuna Beach Water Front](/static/images/goa/anjuna.jpg "Visited the very scenic Anjuna Beach 😍")
 
-![Sanyam Aggarwal, Ankit Goyal and Harpreet Singh, having a conversation at the Anjuna Beach Front](/static/images/goa/anjuna.jpg "Dhillon, you drank more")
+![Sanyam Aggarwal, Ankit Goyal and Harpreet Singh, having a conversation at the Anjuna Beach Front](/static/images/goa/you_drank_more.jpg "Dhillon, you drank more")
 
 We had simple lunch to my delight and everyone's dismay and played with a [Frisbee](https://en.wikipedia.org/wiki/Frisbee) at the Baga beach. I got a recommendation for a [Pure Veg Restaurant](https://goo.gl/maps/et7ASw9YKgiDgBo6A) nearby from the [Bakery](https://goo.gl/maps/fkbHucYEfMa7jZ889) we bought TG's Birthday Cake. I loved the meal. My stomach was feeling so acidic, I just ate Pure Vegetarian throughout the whole tour, even missed trying out Sea Food, I have to make another visit for that. We were back at GoStops.
 
