@@ -41,7 +41,11 @@ I made breakfast for our everybody 😁. We played voleyball once again but this
 
 I had to switch to my Prescription Powered Sunglasses for the whole tour. The first stop of the day was the [Alcohol Museum](https://www.instagram.com/alcoholmuseum), Candolim.
 
-In the evening the a visit to Old Goa was planned but was vetoed in the favor of a Cruise Casino. [Maddy](https://www.linkedin.com/in/ankitgoyal1125) and I reached at one casino and booked tickets too quickly to avoid getting sold out on a weekend, even when TG and [Dhillon](https://www.linkedin.com/in/dhillon-harpreet/) had lost way and were midway. When they reached an hour later, to our surprise, both of them were in shorts and were not allowed to enter 🤦‍♂️. Unable to find trousers nearby, they went all the way back to Airbnb, Candolim  to change and then again came back. They were an hour late, once again 🫡. I got celebrity attention, thanks to my sunglasses which I was wearing at night. What a vibe there was on the Skybar!
+In the evening the a visit to Old Goa was planned but was vetoed in the favor of a Cruise Casino. [Maddy](https://www.linkedin.com/in/ankitgoyal1125) and I reached at one casino and booked tickets too quickly to avoid getting sold out on a weekend, even when TG and [Dhillon](https://www.linkedin.com/in/dhillon-harpreet/) had lost way and were midway. 
+
+![Deltin Jaqk Casino Front Entrance](/static/images/goa/casino.jpg "Deltin Jaqk")
+
+When they reached an hour later, to our surprise, both of them were in shorts and were not allowed to enter 🤦‍♂️. Unable to find trousers nearby, they went all the way back to Airbnb, Candolim  to change and then again came back. They were an hour late, once again 🫡. I got celebrity attention, thanks to my sunglasses which I was wearing at night. What a vibe there was on the Skybar!
 
 ![Selfie of Sanyam Aggarwal and Harpreet Singh on the Skybar of the Deltin Royale Cruise Casino](/static/images/goa/deltin_sober.jpg "Dine-in x Sea Breeze")
 
