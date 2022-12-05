@@ -1,6 +1,6 @@
 ---
 
-date: '2022-12-01'
+date: '2022-12-05'
 title: Go Goa Gone! Private ED!T!ON!!
 tags: [life, travel, goa]
 author: Sanyam Aggarwal
