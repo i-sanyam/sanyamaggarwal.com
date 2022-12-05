@@ -1,0 +1,17 @@
+# http and https need separate rules if you don’t force_ssl!
+# https://blog.yoursite.com/* https://www.yoursite.com/blog/:splat 301!
+
+# other URLS might proxy or redirect offsite
+# https://frontend.yoursite.com/login/* https://backend.yoursite.com/:splat 200
+
+
+# MEDIUM
+https://medium.sanyamaggarwal.in/* https://sanyamaggarwal.medium.com/:splat 301!
+
+
+# GITHUB
+https://github.sanyamaggarwal.in/* https://github.com/i-sanyam/:splat 301!
+https://git.sanyamaggarwal.in/* https://github.com/i-sanyam/:splat 301!
+
+# LINKEDIN
+https://linkedin.sanyamaggarwal.in/* https://www.linkedin.com/in/sanyamaggarwal/:splat 301!
