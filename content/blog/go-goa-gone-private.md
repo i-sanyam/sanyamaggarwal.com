@@ -13,6 +13,8 @@ hideList: true
 ### Day 1 - Thursday, November 24, 2022
 The baniya inside the Aggarwal booked the flight tickets for Chandigarh-Delhi-Goa **two months** in advance. There were no direct flights when I booked. A week before our departure I found out 😲 that there were direct flights and that too around the same price I had booked for.
 
+When I was buying liquor at the Chandigarh Airport, the saleswomen suggested me to get it from Delhi Airport as it will be cheaper there, only to find out later that [the liquor vends at Delhi Airport had been recently shut down](https://economictimes.indiatimes.com/industry/cons-products/liquor/liquor-shops-at-delhi-airport-shut-from-september-1/articleshow/93913592.cms). Be ready for 1.5x pricier liquor in Goa. Here we come!
+
 ![An in-flight shot of Airbus A321 Neo's Left Wing](/static/images/goa/color_pallete.jpg "I just love the seats at the wings! Look at the amazing color pallete 😋")
 
 We arrived at our [Airbnb](https://www.airbnb.co.in/rooms/53588509?check_in=2023-01-29&check_out=2023-02-03&guests=1&adults=8&s=67&unique_share_id=74f7e97d-209d-47fe-b81d-f025ef0f012e) in Candolim at around 9:00PM.
