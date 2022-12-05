@@ -40,7 +40,7 @@ But Punjabis carry their Vibe and I gave a tribute to the legend himself, [Sidhu
 {{<ytvideo id="3p0kgg5zVH8" title="Sidhu Moose Wala | Legend | Goa | Sanyam Aggarwal" description="The live music was too soft and romantic. I woke up everybody from trance">}}
 
 ### Day 3 - Saturday, November 26, 2022
-I made breakfast for our everybody 😁. We played voleyball once again but this time in the pool. 
+I made breakfast for everybody 😁. We played voleyball once again but this time in the pool. 
 
 ![Sanyam Aggarwal tossing a volleyball](/static/images/goa/pool_volleyball.jpg "Just in case if you are wondering, this picture is not edited 😉")
 
@@ -50,7 +50,7 @@ I had to switch to my Prescription Powered Sunglasses for the whole tour. Thank 
 
 Yes, you guessed right, we didn't visit the Alcohol Museum.
 
-In the evening the a visit to Old Goa was planned but was vetoed in the favor of a Cruise Casino. [Maddy](https://www.linkedin.com/in/ankitgoyal1125) and I reached at one casino and booked tickets too quickly to avoid getting sold out on a weekend, even when TG and [Dhillon](https://www.linkedin.com/in/dhillon-harpreet/) had lost way and were midway. 
+In the evening a visit to Old Goa was planned but was vetoed in the favor of a Cruise Casino. [Maddy](https://www.linkedin.com/in/ankitgoyal1125) and I reached at one casino and booked tickets too quickly to avoid getting sold out on a weekend, even when TG and [Dhillon](https://www.linkedin.com/in/dhillon-harpreet/) had lost way and were midway. 
 
 ![Deltin Jaqk Casino Front Entrance](/static/images/goa/casino.jpg "Deltin Jaqk")
 
@@ -112,7 +112,7 @@ Soon it was time to return back to goStops Baga.
 
 Since we didn't drink much on the trip - all the booze, chakna and groceries 🥲 we had bought.
 
-At night, while Maddy and I were on our way to Candolim to return the hired Activas and buy some snacks for the late night flight, TG called me to inform that the taxi drivers around are not allowing our cab driver to pick him up from goStops Baga and are creating a scene. They had hit his car as well. I sighed why can't we just get a single simple thing straight. TG got goStops staff to drop him off at a different location. One of the Activas broke down midway.
+At night, while Maddy and I were on our way to Candolim to return the rented Activas and buy some snacks for the late night flight, TG called me to inform that the taxi drivers around are not allowing our cab driver to pick him up from goStops Baga and are creating a scene. They had hit his car as well. I sighed why can't we just get a single simple thing straight. TG got goStops staff to drop him off at a different location. One of the Activas broke down midway.
 We are very thankful to the staff at goStops Baga, who helped us deal with the situation, and made sure we board our return flight on time.
 
 PS. We had a late night connecting flight, it was awkardly tiring. I had now been habitual, and wasn't bothered at all of the stares I got at the security check, airport and in-flight. Lesson Learnt - never book too early, never book connecting flights, and never ever a late-night connecting flight. Should lay a broad itinerary for the tour. Carry an extra pair of spectacles. Don't mix different types of alcohol, and if you want to mix still, don't drink too many of them.
