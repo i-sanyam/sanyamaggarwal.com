@@ -1,6 +1,6 @@
 ---
 
-date: '2022-12-01'
+date: '2022-12-05'
 title: Go Goa Gone! Private ED!T!ON!!
 tags: [life, travel, goa]
 author: Sanyam Aggarwal
@@ -12,6 +12,8 @@ hideList: true
 
 ### Day 1 - Thursday, November 24, 2022
 The baniya inside the Aggarwal booked the flight tickets for Chandigarh-Delhi-Goa **two months** in advance. There were no direct flights when I booked. A week before our departure I found out 😲 that there were direct flights and that too around the same price I had booked for.
+
+When I was buying liquor at the Chandigarh Airport, the saleswomen suggested me to get it from Delhi Airport as it will be cheaper there, only to find out later that [the liquor vends at Delhi Airport had been recently shut down](https://economictimes.indiatimes.com/industry/cons-products/liquor/liquor-shops-at-delhi-airport-shut-from-september-1/articleshow/93913592.cms). Be ready for 1.5x pricier liquor in Goa. Here we come!
 
 ![An in-flight shot of Airbus A321 Neo's Left Wing](/static/images/goa/color_pallete.jpg "I just love the seats at the wings! Look at the amazing color pallete 😋")
 
@@ -31,7 +33,7 @@ Shopped for fancy shirts in the afternoon, the Goan vibe!
 ![Sanyam Aggarwal holding a shirt in front of him](/static/images/goa/shirts.jpg "They didn't have my size for this one 🥲")
 
 
-Got swollen thumbs by playing volleyball in the evening at Candolim Beach. Lost my spectacles by running and lying into the waves. Bought groceries for the breakfast. We had dinner and shots at a highly recommended place - [Inferno](https://www.zomato.com/goa/inferno-candolim) but didn't like it much. 
+Got swollen thumbs by playing volleyball in the evening at Candolim Beach. Lost my spectacles by running and lying into the waves. Bought groceries for breakfast. We had dinner and shots at a highly recommended place - [Inferno](https://www.zomato.com/goa/inferno-candolim) but didn't like it much. 
 
 {{<ytvideo id="v_ZxxPy3DKs" loop="true" title="Fireball Shots at Inferno, Candolim, Goa" description="Fireball Shots at Inferno, I am trying neither of them again 🙅‍♂️">}}
 
@@ -63,7 +65,7 @@ When they reached an hour later, to our surprise, both of them were in shorts an
 Both of us had to be carried back to the Airbnb, courtesy of Maddy and TG. I and a drunk Dhillon were vomiting on our way back to the Airbnb, which was enough to get them off of their two shots high 😅. I feel sorry and grateful to them at the same time 😂. There's nothing to write much about because you didn't drink enough if you remember what happened. Apparently the dinner was really great, which Dhillon and I didn't even taste.
 
 ### Day 4 - Sunday, November 27, 2022
-I woke up with a very bad hangover, dizzy head and severe heartburn. While we were asleep Maddy and TG were out to bring medicines and the Activas parked at the Casino 😅. Dhillon made scrambled eggs for ailing me. He was cooking them for the first time, and that too in a very bad hangover. I felt better after taking medicines with coconut water. We checked out to move into our next location [goStops Baga](https://gostops.com/book-rooms-in-goabaga-hostel/).
+I woke up with a very bad hangover, dizzy head and severe heartburn. While we were asleep Maddy and TG were out to bring medicines and the Activas parked at the Casino 😅. Dhillon made scrambled eggs for ailing me. He was cooking them for the very first time, in a very bad hangover, and that too on his Goa Tour 😂. I felt better after taking medicines with coconut water. We checked out to move into our next location [goStops Baga](https://gostops.com/book-rooms-in-goabaga-hostel/).
 
 {{<ytvideo id="uDSPk5p0pEI" loop="true" title="Checkout from Airbnb Candolim" description="We can definitely carry more luggage on an Activa than a standard hatchback">}}
 
@@ -87,22 +89,24 @@ Danced and partied hard.
 Sunglasses in the night, weird stares. No shots for me.
 
 ### Day 5 - Monday, November 28, 2022
-We are usually not on time, but this time we were, and waiting at the designated pick up spot for the Coach to take us to the water sports, but God doesn't like the normal ways for us. The Coach driver was heavily drunk and had called us after he had left from our pickup spot. We had to follow the Coach on our Activas and then boarded a ferry to the Grand Islands, a one hour journey, where the water sports would take place. It was spanned over the whole day and we were scheduled to return in the evening. To everyone's plight and my pleasure Poha was served in breakfast. On the way, a fellow traveller explained the possible danger of a jellyfish sting. The very first activity was Scuba Diving. I went in the water and could breathe in but as soon as we got a little deeper, I would start losing breath, so I didn't do it and so didn't Dhillon, for we both had the same diver, and thought maybe it is because of the diver who didn't give us good enough training. We jumped into the ocean to take a swim where I was already panting because neither there was some safety rope, nor I was able to swim because the really strong waves pushed me very far away from the ferry. To add more salt to the injury, someone shouted Jellyfish and I got really panicked. Thanks to TG and another guy I was safely escorted back to the ferry.
+We are usually not on time, but this time we were, and waiting at the designated pick up spot for the Coach to take us to the water sports, but God doesn't like the normal ways for us. The Coach driver was heavily drunk and had called us after he had left from our pickup spot. We had to follow the Coach on our Activas and then boarded a ferry to the Grand Islands, a one hour journey, where the water sports would take place. It was spanned over the whole day and we were scheduled to return in the evening. To everyone's plight and my pleasure Poha was served in breakfast. On the way, a fellow traveller explained the possible danger of a jellyfish sting. The very first activity was Scuba Diving. I went in the water and could breathe in but as soon as we got a little deeper, I would start losing breath, so I didn't do it and so didn't Dhillon, for we both had the same diver, and thought maybe it is because of the diver who didn't give us good enough training. We jumped into the ocean to take a swim where I was already panting because neither there was some safety rope nor I was able to swim because the really strong waves pushed me very far away from the ferry. To add more salt to the injury, someone shouted Jellyfish and I got really panicked. Thanks to TG and another guy I was safely escorted back to the ferry.
 
 We got ferried again to a beach in South Goa, where the other activities - Para Sailing, Bumper Ride, Banana Ride, Jet Ski etc. were to take place. Since the wind was very strong and hence the waves - a lot of people were feeling nauseatic, some were vomiting and chose to board off. It was enough to make me feel nauseous as my heartbeat was already very fast. People were happy - making a lot of noises, in lunch fish was served - which was really smelly, and it made conditions worse for me. The guys went parasailing and I skipped.
 
 ![A view of the ocean](/static/images/goa/ferry.png "The views were amazing, I sparked up a chat with the Captain of the Ferry")
 
-I tried to catch a nap meanwhile and I don't know when I missed the call to go to the other water sports. In this way, all of the day went in vain and I just sat the whole day on the ferry 😔.
+I tried to catch a nap meanwhile and don't know when I missed the call for other activities. In this way, all of the day went in vain and I just sat the whole day on the ferry 😔.
 Another reason to plan another visit.
 I had loved 😍 yesterday's dinner at [Anand Pure Veg Restaurant]((https://goo.gl/maps/et7ASw9YKgiDgBo6A)) and the cakes at [Big Bakery](https://goo.gl/maps/fkbHucYEfMa7jZ889), so I repeated the same. I became their repeat customer.
 
 ### Day 6 - Tuesday, November 29, 2022
-This was our last day in Goa! Maddy and I were on Activa and TG and Dhillon on another. The first stop was at the Shiva's Face at Vagator beach. It was a really scorching sun out here instead of yesterday's windy day.
+This was our last day in Goa! Maddy and I were on one Activa and TG and Dhillon on another. The first stop was at the Shiva's Face at Vagator beach. Yesterday's windy day had tortured me, so today it was the turn of the scorching sun.
 
 ![Sanyam Aggarwal praying in front of Shiva's Face at Vagator Beach](/static/images/goa/vagator.jpg "Babam Bam Babam Bam Bam Lehri")
 
 After that, we headed together for Arambol beach. TG drove too fast and went into a no-entry-zone and we just got saved from getting a big challan. With TG's fast driving and Dhillon's excellent navigation skills, they reached Morjim, while Maddy and I were at Arambol.
+
+![A view of the Arambol beach](/static/images/goa/arambol.jpg "The beaches of the north were filled with tranquility as opposed to the hustle-bustle of the beaches visited earlier")
 
 Then we headed for lunch at Morjim Beach where TG and Dhillon were already waiting for us. I had a sun bath, an amazingly simple Dal at Lunch, and a quick nap at the beach amongst the sea breeze! 🤩
 
@@ -110,10 +114,11 @@ Then we headed for lunch at Morjim Beach where TG and Dhillon were already waiti
 
 Soon it was time to return back to goStops Baga.
 
-Since we didn't drink much on the trip - all the booze, chakna and groceries 🥲 we had bought.
+Since we didn't drink much on the trip - all the booze, chakna and groceries 🥲 we had bought 🗑️.
 
 At night, while Maddy and I were on our way to Candolim to return the rented Activas and buy some snacks for the late night flight, TG called me to inform that the taxi drivers around are not allowing our cab driver to pick him up from goStops Baga and are creating a scene. They had hit his car as well. I sighed why can't we just get a single simple thing straight. TG got goStops staff to drop him off at a different location. One of the Activas broke down midway.
-We are very thankful to the staff at goStops Baga, who helped us deal with the situation, and made sure we board our return flight on time.
+
+We are very thankful to the staff at goStops Baga, who helped us deal with the situation and made sure we board our flight on time.
 
 PS. We had a late night connecting flight, it was awkardly tiring. I had now been habitual, and wasn't bothered at all of the stares I got at the security check, airport and in-flight. Lesson Learnt - never book too early, never book connecting flights, and never ever a late-night connecting flight. Should lay a broad itinerary for the tour. Carry an extra pair of spectacles. Don't mix different types of alcohol, and if you want to mix still, don't drink too many of them.
 

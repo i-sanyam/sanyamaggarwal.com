@@ -1,6 +1,5 @@
 ---
-
-date: '2022-12-10'
+date: '2022-12-05'
 title: Go Goa Gone!
 tags: [life, travel, goa]
 author: Sanyam Aggarwal
@@ -30,7 +29,7 @@ Shopped for fancy shirts in the afternoon, the Goan vibe!
 ![Sanyam Aggarwal holding a shirt in front of him](/static/images/goa/shirts.jpg "They didn't have my size for this one 🥲")
 
 
-Got swollen thumbs by playing volleyball in the evening at Candolim Beach. Lost my spectacles by running and lying into the waves. Bought groceries for the breakfast. We had dinner and at a highly recommended place - [Inferno](https://www.zomato.com/goa/inferno-candolim) but didn't like it much.
+Got swollen thumbs by playing volleyball in the evening at Candolim Beach. Lost my spectacles by running and lying into the waves. Bought groceries for breakfast. We had dinner and at a highly recommended place - [Inferno](https://www.zomato.com/goa/inferno-candolim) but didn't like it much.
 
 But Punjabis carry their Vibe and I gave a tribute to the legend himself, [Sidhu Moose Wala](https://en.wikipedia.org/wiki/Sidhu_Moose_Wala).
 
@@ -69,22 +68,24 @@ We had simple lunch to my delight and everyone's dismay and played with a [Frisb
 Danced and partied hard. Sunglasses in the night, weird stares.
 
 ### Day 5 - Monday, November 28, 2022
-We are usually not on time, but this time we were, and waiting at the designated pick up spot for the Coach to take us to the water sports, but God doesn't like the normal ways for us. The Coach driver was heavily drunk and had called us after he had left from our pickup spot. We had to follow the Coach on our Activas and then boarded a ferry to the Grand Islands, a one hour journey, where the water sports would take place. It was spanned over the whole day and we were scheduled to return in the evening. To everyone's plight and my pleasure Poha was served in breakfast. On the way, a fellow traveller explained the possible danger of a jellyfish sting. The very first activity was Scuba Diving. I went in the water and could breathe in but as soon as we got a little deeper, I would start losing breath, so I didn't do it and so didn't Dhillon, for we both had the same diver, and thought maybe it is because of the diver who didn't give us good enough training. We jumped into the ocean to take a swim where I was already panting because neither there was some safety rope, nor I was able to swim because the really strong waves pushed me very far away from the ferry. To add more salt to the injury, someone shouted Jellyfish and I got really panicked. Thanks to TG and another guy I was safely escorted back to the ferry.
+We are usually not on time, but this time we were, and waiting at the designated pick up spot for the Coach to take us to the water sports, but God doesn't like the normal ways for us. The Coach driver was heavily drunk and had called us after he had left from our pickup spot. We had to follow the Coach on our Activas and then boarded a ferry to the Grand Islands, a one hour journey, where the water sports would take place. It was spanned over the whole day and we were scheduled to return in the evening. To everyone's plight and my pleasure Poha was served in breakfast. On the way, a fellow traveller explained the possible danger of a jellyfish sting. The very first activity was Scuba Diving. I went in the water and could breathe in but as soon as we got a little deeper, I would start losing breath, so I didn't do it and so didn't Dhillon, for we both had the same diver, and thought maybe it is because of the diver who didn't give us good enough training. We jumped into the ocean to take a swim where I was already panting because neither there was some safety rope nor I was able to swim because the really strong waves pushed me very far away from the ferry. To add more salt to the injury, someone shouted Jellyfish and I got really panicked. Thanks to TG and another guy I was safely escorted back to the ferry.
 
 We got ferried again to a beach in South Goa, where the other activities - Para Sailing, Bumper Ride, Banana Ride, Jet Ski etc. were to take place. Since the wind was very strong and hence the waves - a lot of people were feeling nauseatic, some were vomiting and chose to board off. It was enough to make me feel nauseous as my heartbeat was already very fast. People were happy - making a lot of noises, in lunch fish was served - which was really smelly, and it made conditions worse for me. The guys went parasailing and I skipped.
 
 ![A view of the ocean](/static/images/goa/ferry.png "The views were amazing, I sparked up a chat with the Captain of the Ferry")
 
-I tried to catch a nap meanwhile and I don't know when I missed the call to go to the other water sports. In this way, all of the day went in vain and I just sat the whole day on the ferry 😔.
-Another reason to plan another visit.
+I tried to catch a nap meanwhile and don't know when I missed the call for other activities. In this way, all of the day went in vain and I just sat the whole day on the ferry 😔.
+A reason to plan another visit.
 I had loved 😍 yesterday's dinner at [Anand Pure Veg Restaurant]((https://goo.gl/maps/et7ASw9YKgiDgBo6A)) and the cakes at [Big Bakery](https://goo.gl/maps/fkbHucYEfMa7jZ889), so I repeated the same. I became their repeat customer.
 
 ### Day 6 - Tuesday, November 29, 2022
-This was our last day in Goa! Maddy and I were on Activa and TG and Dhillon on another. The first stop was at the Shiva's Face at Vagator beach. It was a really scorching sun out here instead of yesterday's windy day.
+This was our last day in Goa! Maddy and I were on one Activa and TG and Dhillon on another. The first stop was at the Shiva's Face at Vagator beach. Yesterday's windy day had tortured me, so today it was the turn of the scorching sun.
 
 ![Sanyam Aggarwal praying in front of Shiva's Face at Vagator Beach](/static/images/goa/vagator.jpg "Babam Bam Babam Bam Bam Lehri")
 
 After that, we headed together for Arambol beach. TG drove too fast and went into a no-entry-zone and we just got saved from getting a big challan. With TG's fast driving and Dhillon's excellent navigation skills, they reached Morjim, while Maddy and I were at Arambol.
+
+![A view of the Arambol beach](/static/images/goa/arambol.jpg "The beaches of the north were filled with tranquility as opposed to the hustle-bustle of the beaches visited earlier")
 
 Then we headed for lunch at Morjim Beach where TG and Dhillon were already waiting for us. I had a sun bath, an amazingly simple Dal at Lunch, and a quick nap at the beach amongst the sea breeze! 🤩
 
