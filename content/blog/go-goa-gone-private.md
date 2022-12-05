@@ -104,6 +104,8 @@ This was our last day in Goa! Maddy and I were on one Activa and TG and Dhillon 
 
 After that, we headed together for Arambol beach. TG drove too fast and went into a no-entry-zone and we just got saved from getting a big challan. With TG's fast driving and Dhillon's excellent navigation skills, they reached Morjim, while Maddy and I were at Arambol.
 
+![A view of the Arambol beach](/static/images/goa/arambol.jpg "The beaches of the north were filled with tranquility as opposed to the hustle-bustle of the beaches visited earlier")
+
 Then we headed for lunch at Morjim Beach where TG and Dhillon were already waiting for us. I had a sun bath, an amazingly simple Dal at Lunch, and a quick nap at the beach amongst the sea breeze! 🤩
 
 ![Selfie of Sanyam Aggarwal on Morjim beach front](/static/images/goa/sunbath.jpg "The Solace!")
