@@ -54,7 +54,7 @@ In the evening the a visit to Old Goa was planned but was vetoed in the favor of
 
 When they reached an hour later, to our surprise, both of them were in shorts and were not allowed to enter 🤦‍♂️. Unable to find trousers nearby, they went all the way back to Airbnb, Candolim  to change and then again came back. They were an hour late, once again 🫡. I got celebrity attention, thanks to my sunglasses which I was wearing at night. What a vibe there was on the Skybar! I along with Dhillon had too many cocktails.
 
-{{<ytvideo id="SRA7SkRWhA8" loop="true" title="Sober Munde!" description="If I can drink a bucket, then Dhillon can drink the ocean">}}
+{{<ytvideo id="P_Mhv15UTaM" loop="true" title="Sober Munde!" description="If I can drink a bucket, then Dhillon can drink the ocean">}}
 
 ![Selfie of Sanyam Aggarwal and Harpreet Singh on the Skybar of the Deltin Royale Cruise Casino](/static/images/goa/deltin_sober.jpg "I think this is the last time Dhillon and I were seen sober")
 
