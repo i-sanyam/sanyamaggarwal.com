@@ -76,7 +76,7 @@ We got ferried again to a beach in South Goa, where the other activities - Para 
 ![A view of the ocean](/static/images/goa/ferry.png "The views were amazing, I sparked up a chat with the Captain of the Ferry")
 
 I tried to catch a nap meanwhile and don't know when I missed the call for other activities. In this way, all of the day went in vain and I just sat the whole day on the ferry 😔.
-Another reason to plan another visit.
+A reason to plan another visit.
 I had loved 😍 yesterday's dinner at [Anand Pure Veg Restaurant]((https://goo.gl/maps/et7ASw9YKgiDgBo6A)) and the cakes at [Big Bakery](https://goo.gl/maps/fkbHucYEfMa7jZ889), so I repeated the same. I became their repeat customer.
 
 ### Day 6 - Tuesday, November 29, 2022
