@@ -110,7 +110,8 @@ Then we headed for lunch at Morjim Beach where TG and Dhillon were already waiti
 
 Soon it was time to return back to goStops Baga.
 
-Since we didn't drink much on the trip - booze, chakna and groceries 🥲.
+Since we didn't drink much on the trip - all the booze, chakna and groceries 🥲 we had bought.
+
 At night, while Maddy and I were on our way to Candolim to return the hired Activas and buy some snacks for the late night flight, TG called me to inform that the taxi drivers around are not allowing our cab driver to pick him up from goStops Baga and are creating a scene. They had hit his car as well. I sighed why can't we just get a single simple thing straight. TG got goStops staff to drop him off at a different location. One of the Activas broke down midway.
 We are very thankful to the staff at goStops Baga, who helped us deal with the situation, and made sure we board our return flight on time.
 
