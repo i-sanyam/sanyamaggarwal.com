@@ -31,7 +31,7 @@ Shopped for fancy shirts in the afternoon, the Goan vibe!
 ![Sanyam Aggarwal holding a shirt in front of him](/static/images/goa/shirts.jpg "They didn't have my size for this one 🥲")
 
 
-Got swollen thumbs by playing volleyball in the evening at Candolim Beach. Lost my spectacles by running and lying into the waves. Bought groceries for the breakfast. We had dinner and shots at a highly recommended place - [Inferno](https://www.zomato.com/goa/inferno-candolim) but didn't like it much. 
+Got swollen thumbs by playing volleyball in the evening at Candolim Beach. Lost my spectacles by running and lying into the waves. Bought groceries for breakfast. We had dinner and shots at a highly recommended place - [Inferno](https://www.zomato.com/goa/inferno-candolim) but didn't like it much. 
 
 {{<ytvideo id="v_ZxxPy3DKs" loop="true" title="Fireball Shots at Inferno, Candolim, Goa" description="Fireball Shots at Inferno, I am trying neither of them again 🙅‍♂️">}}
 

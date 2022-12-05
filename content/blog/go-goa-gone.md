@@ -30,7 +30,7 @@ Shopped for fancy shirts in the afternoon, the Goan vibe!
 ![Sanyam Aggarwal holding a shirt in front of him](/static/images/goa/shirts.jpg "They didn't have my size for this one 🥲")
 
 
-Got swollen thumbs by playing volleyball in the evening at Candolim Beach. Lost my spectacles by running and lying into the waves. Bought groceries for the breakfast. We had dinner and at a highly recommended place - [Inferno](https://www.zomato.com/goa/inferno-candolim) but didn't like it much.
+Got swollen thumbs by playing volleyball in the evening at Candolim Beach. Lost my spectacles by running and lying into the waves. Bought groceries for breakfast. We had dinner and at a highly recommended place - [Inferno](https://www.zomato.com/goa/inferno-candolim) but didn't like it much.
 
 But Punjabis carry their Vibe and I gave a tribute to the legend himself, [Sidhu Moose Wala](https://en.wikipedia.org/wiki/Sidhu_Moose_Wala).
 
