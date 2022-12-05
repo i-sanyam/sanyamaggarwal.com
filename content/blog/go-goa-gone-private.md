@@ -37,6 +37,8 @@ Got swollen thumbs by playing volleyball in the evening at Candolim Beach. Lost 
 
 But Punjabis carry their Vibe and I gave a tribute to the legend himself, [Sidhu Moose Wala](https://en.wikipedia.org/wiki/Sidhu_Moose_Wala).
 
+{{<ytvideo id="3p0kgg5zVH8" title="Sidhu Moose Wala | Legend | Goa | Sanyam Aggarwal" description="The live music was too soft and romantic. I woke up everybody from trance">}}
+
 ### Day 3 - Saturday, November 26, 2022
 I made breakfast for our everybody 😁. We played voleyball once again but this time in the pool. 
 
