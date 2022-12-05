@@ -80,7 +80,7 @@ Another reason to plan another visit.
 I had loved 😍 yesterday's dinner at [Anand Pure Veg Restaurant]((https://goo.gl/maps/et7ASw9YKgiDgBo6A)) and the cakes at [Big Bakery](https://goo.gl/maps/fkbHucYEfMa7jZ889), so I repeated the same. I became their repeat customer.
 
 ### Day 6 - Tuesday, November 29, 2022
-This was our last day in Goa! Maddy and I were on Activa and TG and Dhillon on another. The first stop was at the Shiva's Face at Vagator beach. It was a really scorching sun out here instead of yesterday's windy day.
+This was our last day in Goa! Maddy and I were on one Activa and TG and Dhillon on another. The first stop was at the Shiva's Face at Vagator beach. It was a really scorching sun out here instead of yesterday's windy day.
 
 ![Sanyam Aggarwal praying in front of Shiva's Face at Vagator Beach](/static/images/goa/vagator.jpg "Babam Bam Babam Bam Bam Lehri")
 
