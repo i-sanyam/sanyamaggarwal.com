@@ -117,6 +117,7 @@ Soon it was time to return back to goStops Baga.
 Since we didn't drink much on the trip - all the booze, chakna and groceries 🥲 we had bought 🗑️.
 
 At night, while Maddy and I were on our way to Candolim to return the rented Activas and buy some snacks for the late night flight, TG called me to inform that the taxi drivers around are not allowing our cab driver to pick him up from goStops Baga and are creating a scene. They had hit his car as well. I sighed why can't we just get a single simple thing straight. TG got goStops staff to drop him off at a different location. One of the Activas broke down midway.
+
 We are very thankful to the staff at goStops Baga, who helped us deal with the situation, and made sure we board our return flight on time.
 
 PS. We had a late night connecting flight, it was awkardly tiring. I had now been habitual, and wasn't bothered at all of the stares I got at the security check, airport and in-flight. Lesson Learnt - never book too early, never book connecting flights, and never ever a late-night connecting flight. Should lay a broad itinerary for the tour. Carry an extra pair of spectacles. Don't mix different types of alcohol, and if you want to mix still, don't drink too many of them.
