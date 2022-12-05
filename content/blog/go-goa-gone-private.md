@@ -97,7 +97,7 @@ We got ferried again to a beach in South Goa, where the other activities - Para 
 
 I tried to catch a nap meanwhile and don't know when I missed the call for other activities. In this way, all of the day went in vain and I just sat the whole day on the ferry 😔.
 Another reason to plan another visit.
-I had loved 😍 yesterday's dinner at [Anand Pure Veg Restaurant]((https://goo.gl/maps/et7ASw9YKgiDgBo6A)) and the cakes at [Big Bakery](https://goo.gl/maps/fkbHucYEfMa7jZ889), so I repeated the same. I became their repeat customer.
+I had loved 😍 yesterday's dinner at [Anand Pure Veg Restaurant]((https://goo.gl/maps/et7ASw9YKgiDgBo6A)) and the cakes at [Big Bakery](https://goo.gl/maps/fkbHucYEfMa7jZ889), so I repeated the same. I became their repeat customer. Visited Tito's lane at night.
 
 ### Day 6 - Tuesday, November 29, 2022
 This was our last day in Goa! Maddy and I were on one Activa and TG and Dhillon on another. The first stop was at the Shiva's Face at Vagator beach. Yesterday's windy day had tortured me, so today it was the turn of the scorching sun.
