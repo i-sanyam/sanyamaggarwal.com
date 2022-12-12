@@ -49,7 +49,7 @@ In the evening a visit to Old Goa was planned but was vetoed in the favor of a C
 
 When they reached an hour later, to our surprise, both of them were in shorts and were not allowed to enter 🤦‍♂️. Unable to find trousers nearby, they went all the way back to Airbnb, Candolim  to change and then again came back. They were an hour late, once again 🫡. I got celebrity attention, thanks to my sunglasses which I was wearing at night. What a vibe there was on the Skybar!
 
-![Selfie of Sanyam Aggarwal and Harpreet Singh on the Skybar of the Deltin Royale Cruise Casino](/static/images/goa/deltin_sober.jpg "Dine-in x Sea Breeze")
+![Selfie of Sanyam Aggarwal and Harpreet Singh on the Skybar of the Deltin Royale Cruise Casino](/static/images/goa/deltin.jpg "Dine-in x Sea Breeze")
 
 ### Day 4 - Sunday, November 27, 2022
 Dhillon made today's breakfast. He learnt to make scrambled eggs at his Goa Tour! We checked out to move into our next location [goStops Baga](https://gostops.com/book-rooms-in-goabaga-hostel/).
