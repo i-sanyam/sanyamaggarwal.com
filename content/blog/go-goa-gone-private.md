@@ -60,7 +60,7 @@ When they reached an hour later, to our surprise, both of them were in shorts an
 
 {{<ytvideo id="P_Mhv15UTaM" loop="true" title="Sober Munde!" description="If I can drink a bucket, then Dhillon can drink the ocean">}}
 
-![Selfie of Sanyam Aggarwal and Harpreet Singh on the Skybar of the Deltin Royale Cruise Casino](/static/images/goa/deltin_sober.jpg "I think this is the last time Dhillon and I were seen sober")
+![Selfie of Sanyam Aggarwal and Harpreet Singh on the Skybar of the Deltin Royale Cruise Casino](/static/images/goa/deltin.jpg "I think this is the last time Dhillon and I were seen sober")
 
 Both of us had to be carried back to the Airbnb, courtesy of Maddy and TG. I and a drunk Dhillon were vomiting on our way back to the Airbnb, which was enough to get them off of their two shots high 😅. I feel sorry and grateful to them at the same time 😂. There's nothing to write much about because you didn't drink enough if you remember what happened. Apparently the dinner was really great, which Dhillon and I didn't even taste.
 
