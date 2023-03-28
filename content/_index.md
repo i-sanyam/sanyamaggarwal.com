@@ -36,7 +36,7 @@ I studied for UPSC between 2017 - 2019. I try to keep an eye on what goes in and
 
 I have reserved the story how I got again into tech. Until next time.
 
-![Sanyam Aggarwal standing in front of a building](static/images/monsoon-palace-2022.jpeg "Monsoon Palace, Udaipur 2022")
+![Sanyam Aggarwal standing in front of a building](static/images/bangalore-palace-2023.jpeg "Bangalore Palace, Bengaluru 2023")
 
 ##
 
