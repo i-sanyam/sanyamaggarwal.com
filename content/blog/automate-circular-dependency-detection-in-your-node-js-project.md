@@ -1,7 +1,7 @@
 ---
 date: '2023-03-28'
 title: Automate Circular Dependency Detection in your Node.js Project
-tags: [ nodejs, best practices ]
+tags: [ best practices, javascript, nodejs ]
 author: Sanyam Aggarwal
 link: https://medium.com/@sanyamaggarwal/automate-circular-dependency-detection-in-your-node-js-project-394ed08f64bf
 post_type: medium
