@@ -120,7 +120,7 @@ At night, while Maddy and I were on our way to Candolim to return the rented Act
 
 We are very thankful to the staff at goStops Baga, who helped us deal with the situation and made sure we board our flight on time.
 
-PS. We had a late night connecting flight, it was awkardly tiring. I had now been habitual, and wasn't bothered at all of the stares I got at the security check, airport and in-flight. Lesson Learnt - never book too early, never book connecting flights, and never ever a late-night connecting flight. Should lay a broad itinerary for the tour. Carry an extra pair of spectacles. Don't mix different types of alcohol, and if you want to mix still, don't drink too many of them.
+PS. We had a late night connecting flight, it was awkardly tiring. I had now been habitual, and wasn't bothered at all of the stares I got, all thanks to my all black sunglasses, at the security check, airport and in-flight. Lesson Learnt - never book too early, never book connecting flights, and never ever a late-night connecting flight. Should lay a broad itinerary for the tour. Carry an extra pair of spectacles. Don't mix different types of alcohol, and if you want to mix still, don't drink too many of them.
 
 -----------
 
