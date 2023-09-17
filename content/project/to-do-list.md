@@ -5,7 +5,7 @@ tags: [javascript, html]
 author: Sanyam Aggarwal
 link: https://github.com/i-sanyam/to-do-list
 post_type: github
-description: https://todolist.sanyamaggarwal.in
+description: https://sanyam-todo-list.netlify.app/
 tile: true
 
 ---
