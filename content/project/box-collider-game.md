@@ -5,7 +5,7 @@ tags: [javascript, html]
 author: Sanyam Aggarwal
 link: https://github.com/i-sanyam/box-collider-game
 post_type: github
-description: https://boxcollider.sanyamaggarwal.in
+description: https://sanyam-boxcollidergame-v1.netlify.app/
 tile: true
 
 ---
