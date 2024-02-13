@@ -16,7 +16,7 @@ I like to hobby-code, workout, swim, sing, travel to new places and spend time w
 
 ### My First Steps on the Tech Ladder
 
-I discovered computers at my Uncle's office when I was 6, and had access to a computer since then. I became your go to guy for PC, Phone recommendations. I had dreamy eyes - I wanted to take up all my passions professionally - techie, honest people serving government official, automobile desinger, playback singer, and a lawyer - to name a few I fancied more amongst others. These are some of the professions which I fancied the most amongst many others. Eventually I joined [NIT Jalandhar](https://www.nitj.ac.in/) in 2016 to learn more about what goes behind the tech.
+I discovered computers at my Uncle's office when I was 6, and had access to a computer since then. I became your go to guy for PC, Phone recommendations. I had dreamy eyes - I wanted to take up all my passions professionally - techie, honest people serving government official, automobile desinger, playback singer, and a lawyer - to name a few I fancied more amongst others. Eventually I joined [NIT Jalandhar](https://www.nitj.ac.in/) in 2016 to learn more about what goes behind the tech.
 
 ![Sanyam Aggarwal's selfie in front of NITJ Main Building](static/images/2016.jpeg "2016 Fresher's Party")
 
