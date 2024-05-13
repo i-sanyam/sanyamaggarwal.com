@@ -5,14 +5,12 @@ type: "page"
 Hey there! Welcome to my personal homepage.
 I am Sanyam, and I love to solve real life problems for mass benefit.
 
-I am a Software Engineer at [Shipsy](https://shipsy.io). At Shipsy, our motto is to be the enabler for every mode of logistics that exists while being best at it - 'Ship' anything and everything via 'Shipsy'.
-
-I started my journey in 2020 (yeah COVID-19, WFH) as a Software Engineering Intern in an On-Demand Logistics Solution Product (fancy name for 30 minute delivery, if you are wondering) and fell in love with the problem and the challenges it brings along ever since.
+I am a Software Engineer. I started my journey in 2020 (yeah COVID-19, WFH) as a Software Engineering Intern in an On-Demand Logistics Solution Product (fancy name for 30 minute delivery, if you are wondering) and fell in love with the problem and the challenges it brings along ever since.
 
 ![Sanyam Aggarwal on a Boat](static/images/shipping.jpeg "Shipping !")
 
-Apart from what I do @ Shipsy, I particularly enjoy watching content about music and cars - drive reviews, repairs, trades, paint jobs, basically everything about cars! No brownie points for guessing, I fell in love with our family's first car when I was 4.
-I like to hobby-code, workout, swim, sing, travel to new places and spend time with my family.
+Apart from coding, I particularly enjoy watching content about cars - drive reviews, repairs, trades, paint jobs, everything under the sun! No brownie points for guessing, I fell in love with our family's first car when I was 4.
+I like to workout, swim, sing, travel to new places and spend time with my family.
 
 ### My First Steps on the Tech Ladder
 
