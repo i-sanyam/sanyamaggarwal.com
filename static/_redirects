@@ -4,6 +4,8 @@
 # other URLS might proxy or redirect offsite
 # https://frontend.yoursite.com/login/* https://backend.yoursite.com/:splat 200
 
+#Permanent Redirect
+https://sanyamaggarwal.in/* https://sanyamaggarwal.com/:splat 301!
 
 # MEDIUM
 https://medium.sanyamaggarwal.in/* https://sanyamaggarwal.medium.com/:splat 301!
@@ -11,7 +13,7 @@ https://medium.sanyamaggarwal.in/* https://sanyamaggarwal.medium.com/:splat 301!
 
 # GITHUB
 https://github.sanyamaggarwal.in/* https://github.com/i-sanyam/:splat 301!
-https://git.sanyamaggarwal.in/* https://github.com/i-sanyam/:splat 301!
 
 # LINKEDIN
 https://linkedin.sanyamaggarwal.in/* https://www.linkedin.com/in/sanyamaggarwal/:splat 301!
+https://li.sanyamaggarwal.in/* https://www.linkedin.com/in/sanyamaggarwal/:splat 301!
