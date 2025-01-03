@@ -3,9 +3,9 @@ date: '2022-11-06'
 title: dns.toys
 tags: [go, golang, dns]
 author: Sanyam Aggarwal
-link: https://github.com/i-sanyam/dns.toys
+link: https://github.com/knadh/dns.toys/pull/53
 post_type: github
-description: Open Source Contribution to calculate aerial Distance in dns.toys - Golang DNS Server offering handy utilities and services that are easily accessible via the command line.
+description: Open Source Contribution to calculate Aerial Distance via DNS Query
 tile: true
 
 ---
