@@ -5,6 +5,6 @@ tags: [flask, react, python, javascript, html]
 author: Sanyam Aggarwal
 link: https://github.com/i-sanyam/graininsight
 post_type: github
-description: [Grain Scan Homepage](https://www.grainscan.in){:target="_blank"}
+description: Grain Scan Homepage https://www.grainscan.in
 tile: true
 ---
