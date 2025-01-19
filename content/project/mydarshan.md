@@ -1,5 +1,5 @@
 ---
-date: '2023-04-10'
+date: '2023-10-04'
 title: MyDarshan
 tags: [flask, react, python, javascript, html]
 author: Sanyam Aggarwal
